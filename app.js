@@ -39,7 +39,13 @@ function renderResults(focus = false) {
   $('#study-filter').value = studyFilter;
   if (focus) { $('#results-heading').tabIndex = -1; $('#results-heading').focus(); $('#results-heading').scrollIntoView({block:'start'}); }
 }
-function setTopic(value) {topic = value; page = 1; renderResults();}
+function setTopic(value) {
+  topic = value;
+  query = '';
+  $('#search').value = '';
+  page = 1;
+  renderResults();
+}
 function renderTopics() {
   const topics = [...new Set(records.map(p => p.topic))];
   const options = `<option value="">All ${topics.length} topics</option>${topics.map(t => `<option value="${escapeHTML(t)}">${escapeHTML(t)} (${records.filter(p => p.topic === t).length})</option>`).join('')}`;
