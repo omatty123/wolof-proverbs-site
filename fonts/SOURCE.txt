@@ -1,0 +1,8 @@
+Atkinson Hyperlegible Next, weight 600, obtained from Google Fonts on 2026-10-01.
+Font URL: https://fonts.gstatic.com/s/atkinsonhyperlegiblenext/v7/NaP4cYPdHfdVxJw0IfIP0lvYFqijb-UxCtm5_wdGscKFt4tOOfV4ZmW3MrMhtA.ttf
+License source: https://raw.githubusercontent.com/google/fonts/main/ofl/atkinsonhyperlegiblenext/OFL.txt
+Copyright and SIL Open Font License 1.1 are preserved in OFL.txt.
+
+Manrope weights 400, 600, 700, 800 obtained from Google Fonts on 2026-10-01.
+CSS source: https://fonts.googleapis.com/css2?family=Manrope:wght@400;600;700;800&display=swap
+License: https://raw.githubusercontent.com/google/fonts/main/ofl/manrope/OFL.txt (preserved as Manrope-OFL.txt).

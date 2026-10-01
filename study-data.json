@@ -1,0 +1,1552 @@
+{
+  "checkedOn": "2026-10-01",
+  "lexicon": [
+    {
+      "term": "am",
+      "meanings": [
+        "have",
+        "afford"
+      ],
+      "partOfSpeech": "verb",
+      "sourceUrl": "https://www.bu.edu/africa/files/2012/10/Wolof-2-GLOSSARY%C2%A0.pdf",
+      "sourceTitle": "Boston University African Proverbs Project — Wolof 2 glossary"
+    },
+    {
+      "term": "baax",
+      "meanings": [
+        "be good"
+      ],
+      "partOfSpeech": "verb",
+      "sourceUrl": "https://www.bu.edu/africa/files/2012/10/Wolof-6-GLOSSARY.pdf",
+      "sourceTitle": "Boston University African Proverbs Project — Wolof 6 glossary"
+    },
+    {
+      "term": "bopp",
+      "meanings": [
+        "head"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://archive.phonetics.ucla.edu/Language/WOL/wol_word-list_1981_01.html",
+      "sourceTitle": "UCLA Phonetics Lab Archive — Word List for Wolof"
+    },
+    {
+      "term": "bukki",
+      "meanings": [
+        "hyena"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/bukki#Wolof",
+      "sourceTitle": "Wiktionary contributors — bukki (Wolof)",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "term": "buur",
+      "meanings": [
+        "king"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://www.bu.edu/africa/files/2012/10/Wolof-3-Glossary.pdf",
+      "sourceTitle": "Boston University African Proverbs Project — Wolof 3 glossary"
+    },
+    {
+      "term": "bàyyi",
+      "meanings": [
+        "let",
+        "leave",
+        "give up"
+      ],
+      "partOfSpeech": "verb",
+      "sourceUrl": "https://www.bu.edu/africa/files/2012/10/Wolof-6-GLOSSARY.pdf",
+      "sourceTitle": "Boston University African Proverbs Project — Wolof 6 glossary"
+    },
+    {
+      "term": "bëgg",
+      "meanings": [
+        "want",
+        "like",
+        "love"
+      ],
+      "partOfSpeech": "verb",
+      "sourceUrl": "https://en.wiktionary.org/wiki/b%C3%ABgg#Wolof",
+      "sourceTitle": "Wiktionary contributors — bëgg (Wolof)",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "term": "bët",
+      "meanings": [
+        "eye"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://www.bu.edu/africa/files/2012/10/Wolof-5-GLOSSARY.pdf",
+      "sourceTitle": "Boston University African Proverbs Project — Wolof 5 glossary"
+    },
+    {
+      "term": "daw",
+      "meanings": [
+        "run"
+      ],
+      "partOfSpeech": "verb",
+      "sourceUrl": "https://www.bu.edu/africa/files/2012/10/Wolof-6-GLOSSARY.pdf",
+      "sourceTitle": "Boston University African Proverbs Project — Wolof 6 glossary"
+    },
+    {
+      "term": "dee",
+      "meanings": [
+        "die"
+      ],
+      "partOfSpeech": "verb",
+      "sourceUrl": "https://www.bu.edu/africa/files/2012/10/Wolof-4-GLOSSARY.pdf",
+      "sourceTitle": "Boston University African Proverbs Project — Wolof 4 glossary"
+    },
+    {
+      "term": "def",
+      "meanings": [
+        "do"
+      ],
+      "partOfSpeech": "verb",
+      "sourceUrl": "https://archive.phonetics.ucla.edu/Language/WOL/wol_word-list_1981_01.html",
+      "sourceTitle": "UCLA Phonetics Lab Archive — Word List for Wolof"
+    },
+    {
+      "term": "dem",
+      "meanings": [
+        "go"
+      ],
+      "partOfSpeech": "verb",
+      "sourceUrl": "https://www.bu.edu/africa/files/2012/10/Wolof-2-GLOSSARY%C2%A0.pdf",
+      "sourceTitle": "Boston University African Proverbs Project — Wolof 2 glossary"
+    },
+    {
+      "term": "doole",
+      "meanings": [
+        "strength",
+        "power"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://www.bu.edu/africa/files/2012/10/Wolof-10-GLOSSARY.pdf",
+      "sourceTitle": "Boston University African Proverbs Project — Wolof 10 glossary"
+    },
+    {
+      "term": "doom",
+      "meanings": [
+        "child"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://www.bu.edu/africa/files/2012/10/Wolof-2-GLOSSARY%C2%A0.pdf",
+      "sourceTitle": "Boston University African Proverbs Project — Wolof 2 glossary"
+    },
+    {
+      "term": "dox",
+      "meanings": [
+        "walk"
+      ],
+      "partOfSpeech": "verb",
+      "sourceUrl": "https://www.bu.edu/africa/files/2012/10/Wolof-6-GLOSSARY.pdf",
+      "sourceTitle": "Boston University African Proverbs Project — Wolof 6 glossary"
+    },
+    {
+      "term": "dund",
+      "meanings": [
+        "live (verb)",
+        "life (noun)"
+      ],
+      "partOfSpeech": "noun / verb",
+      "sourceUrl": "https://www.bu.edu/africa/files/2012/10/Wolof-8-GLOSSARY.pdf",
+      "sourceTitle": "Boston University African Proverbs Project — Wolof 8 glossary"
+    },
+    {
+      "term": "fekk",
+      "meanings": [
+        "find"
+      ],
+      "partOfSpeech": "verb",
+      "sourceUrl": "https://www.bu.edu/africa/files/2012/10/Wolof-6-GLOSSARY.pdf",
+      "sourceTitle": "Boston University African Proverbs Project — Wolof 6 glossary"
+    },
+    {
+      "term": "garab",
+      "meanings": [
+        "tree",
+        "remedy"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://www.bu.edu/africa/files/2012/10/Wolof-10-GLOSSARY.pdf",
+      "sourceTitle": "Boston University African Proverbs Project — Wolof 10 glossary"
+    },
+    {
+      "term": "gaynde",
+      "meanings": [
+        "lion"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/gaynde#Wolof",
+      "sourceTitle": "Wiktionary contributors — gaynde (Wolof)",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "term": "gone",
+      "meanings": [
+        "child"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://www.bu.edu/africa/files/2012/10/Wolof-4-GLOSSARY.pdf",
+      "sourceTitle": "Boston University African Proverbs Project — Wolof 4 glossary"
+    },
+    {
+      "term": "guddi",
+      "meanings": [
+        "night"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://www.bu.edu/africa/files/2012/10/Wolof-2-GLOSSARY%C2%A0.pdf",
+      "sourceTitle": "Boston University African Proverbs Project — Wolof 2 glossary"
+    },
+    {
+      "term": "gëm",
+      "meanings": [
+        "believe"
+      ],
+      "partOfSpeech": "verb",
+      "sourceUrl": "https://www.bu.edu/africa/files/2012/10/Wolof-3-Glossary.pdf",
+      "sourceTitle": "Boston University African Proverbs Project — Wolof 3 glossary"
+    },
+    {
+      "term": "jaan",
+      "meanings": [
+        "snake"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://www.bu.edu/africa/files/2012/10/Wolof-7-GLOSSARY.pdf",
+      "sourceTitle": "Boston University African Proverbs Project — Wolof 7 glossary"
+    },
+    {
+      "term": "jabar",
+      "meanings": [
+        "wife"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://www.bu.edu/africa/files/2012/10/Wolof-5-GLOSSARY.pdf",
+      "sourceTitle": "Boston University African Proverbs Project — Wolof 5 glossary"
+    },
+    {
+      "term": "jox",
+      "meanings": [
+        "give"
+      ],
+      "partOfSpeech": "verb",
+      "sourceUrl": "https://www.bu.edu/africa/files/2012/10/Wolof-2-GLOSSARY%C2%A0.pdf",
+      "sourceTitle": "Boston University African Proverbs Project — Wolof 2 glossary"
+    },
+    {
+      "term": "jàmm",
+      "meanings": [
+        "peace"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://www.bu.edu/africa/files/2012/10/Wolof-7-GLOSSARY.pdf",
+      "sourceTitle": "Boston University African Proverbs Project — Wolof 7 glossary"
+    },
+    {
+      "term": "jëf",
+      "meanings": [
+        "deed",
+        "act"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://www.bu.edu/africa/files/2012/10/Wolof-7-GLOSSARY.pdf",
+      "sourceTitle": "Boston University African Proverbs Project — Wolof 7 glossary"
+    },
+    {
+      "term": "jël",
+      "meanings": [
+        "take"
+      ],
+      "partOfSpeech": "verb",
+      "sourceUrl": "https://www.bu.edu/africa/files/2012/10/Wolof-9-GLOSSARY.pdf",
+      "sourceTitle": "Boston University African Proverbs Project — Wolof 9 glossary"
+    },
+    {
+      "term": "kër",
+      "meanings": [
+        "house"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/k%C3%ABr#Wolof",
+      "sourceTitle": "Wiktionary contributors — kër (Wolof)",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "term": "laaj",
+      "meanings": [
+        "ask"
+      ],
+      "partOfSpeech": "verb",
+      "sourceUrl": "https://www.bu.edu/africa/files/2012/10/Wolof-5-GLOSSARY.pdf",
+      "sourceTitle": "Boston University African Proverbs Project — Wolof 5 glossary"
+    },
+    {
+      "term": "laal",
+      "meanings": [
+        "touch"
+      ],
+      "partOfSpeech": "verb",
+      "sourceUrl": "https://www.bu.edu/africa/files/2012/10/Wolof-4-GLOSSARY.pdf",
+      "sourceTitle": "Boston University African Proverbs Project — Wolof 4 glossary"
+    },
+    {
+      "term": "lekk",
+      "meanings": [
+        "eat"
+      ],
+      "partOfSpeech": "verb",
+      "sourceUrl": "https://en.wiktionary.org/wiki/lekk#Wolof",
+      "sourceTitle": "Wiktionary contributors — lekk (Wolof)",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "term": "mag",
+      "meanings": [
+        "elder"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://www.bu.edu/africa/files/2012/10/Wolof-9-GLOSSARY.pdf",
+      "sourceTitle": "Boston University African Proverbs Project — Wolof 9 glossary"
+    },
+    {
+      "term": "mbaam",
+      "meanings": [
+        "donkey"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://www.bu.edu/africa/files/2012/10/Wolof-2-GLOSSARY%C2%A0.pdf",
+      "sourceTitle": "Boston University African Proverbs Project — Wolof 2 glossary"
+    },
+    {
+      "term": "mbokk",
+      "meanings": [
+        "relative",
+        "fellow"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://www.bu.edu/africa/files/2012/10/Wolof-3-Glossary.pdf",
+      "sourceTitle": "Boston University African Proverbs Project — Wolof 3 glossary"
+    },
+    {
+      "term": "muñ",
+      "meanings": [
+        "be patient",
+        "persevere"
+      ],
+      "partOfSpeech": "verb",
+      "sourceUrl": "https://www.bu.edu/africa/files/2012/10/Wolof-3-Glossary.pdf",
+      "sourceTitle": "Boston University African Proverbs Project — Wolof 3 glossary"
+    },
+    {
+      "term": "mën",
+      "meanings": [
+        "can",
+        "be able"
+      ],
+      "partOfSpeech": "verb",
+      "sourceUrl": "https://www.bu.edu/africa/files/2012/10/Wolof-2-GLOSSARY%C2%A0.pdf",
+      "sourceTitle": "Boston University African Proverbs Project — Wolof 2 glossary"
+    },
+    {
+      "term": "ndey",
+      "meanings": [
+        "mother"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://www.bu.edu/africa/files/2012/10/Wolof-4-GLOSSARY.pdf",
+      "sourceTitle": "Boston University African Proverbs Project — Wolof 4 glossary"
+    },
+    {
+      "term": "ndox",
+      "meanings": [
+        "water"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/ndox#Wolof",
+      "sourceTitle": "Wiktionary contributors — ndox (Wolof)",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "term": "nit",
+      "meanings": [
+        "person"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://archive.phonetics.ucla.edu/Language/WOL/wol_word-list_1981_01.html",
+      "sourceTitle": "UCLA Phonetics Lab Archive — Word List for Wolof"
+    },
+    {
+      "term": "suuf",
+      "meanings": [
+        "earth",
+        "ground"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://archive.phonetics.ucla.edu/Language/WOL/wol_word-list_1981_01.html",
+      "sourceTitle": "UCLA Phonetics Lab Archive — Word List for Wolof"
+    },
+    {
+      "term": "wax",
+      "meanings": [
+        "speak",
+        "tell"
+      ],
+      "partOfSpeech": "verb",
+      "sourceUrl": "https://www.bu.edu/africa/files/2012/10/Wolof-2-GLOSSARY%C2%A0.pdf",
+      "sourceTitle": "Boston University African Proverbs Project — Wolof 2 glossary"
+    },
+    {
+      "term": "xam",
+      "meanings": [
+        "know"
+      ],
+      "partOfSpeech": "verb",
+      "sourceUrl": "https://www.bu.edu/africa/files/2012/10/Wolof-2-GLOSSARY%C2%A0.pdf",
+      "sourceTitle": "Boston University African Proverbs Project — Wolof 2 glossary"
+    },
+    {
+      "term": "xarit",
+      "meanings": [
+        "friend",
+        "detached piece"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/xarit#Wolof",
+      "sourceTitle": "Wiktionary contributors — xarit (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "note": "The source distinguishes xarit bi (friend) from xarit wi (detached piece)."
+    },
+    {
+      "term": "xel",
+      "meanings": [
+        "mind"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://www.bu.edu/africa/files/2012/10/Wolof-8-GLOSSARY.pdf",
+      "sourceTitle": "Boston University African Proverbs Project — Wolof 8 glossary"
+    },
+    {
+      "term": "xol",
+      "meanings": [
+        "heart (noun)",
+        "nurse a child or patient (verb)"
+      ],
+      "partOfSpeech": "noun / verb",
+      "sourceUrl": "https://en.wiktionary.org/wiki/xol#Wolof",
+      "sourceTitle": "Wiktionary contributors — xol (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "note": "Different uses share this spelling; the sentence determines the sense."
+    },
+    {
+      "term": "yoon",
+      "meanings": [
+        "law",
+        "way",
+        "path"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://www.bu.edu/africa/files/2012/10/Wolof-3-Glossary.pdf",
+      "sourceTitle": "Boston University African Proverbs Project — Wolof 3 glossary"
+    },
+    {
+      "term": "ñaan",
+      "meanings": [
+        "pray",
+        "beg"
+      ],
+      "partOfSpeech": "verb",
+      "sourceUrl": "https://www.bu.edu/africa/files/2012/10/Wolof-8-GLOSSARY.pdf",
+      "sourceTitle": "Boston University African Proverbs Project — Wolof 8 glossary"
+    },
+    {
+      "term": "ñam",
+      "meanings": [
+        "food"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://www.bu.edu/africa/files/2012/10/Wolof-3-Glossary.pdf",
+      "sourceTitle": "Boston University African Proverbs Project — Wolof 3 glossary"
+    },
+    {
+      "term": "ñàkk",
+      "meanings": [
+        "lack",
+        "be without"
+      ],
+      "partOfSpeech": "verb",
+      "sourceUrl": "https://www.bu.edu/africa/files/2012/10/Wolof-10-GLOSSARY.pdf",
+      "sourceTitle": "Boston University African Proverbs Project — Wolof 10 glossary"
+    },
+    {
+      "term": "gis",
+      "meanings": [
+        "see"
+      ],
+      "sourceUrl": "https://www.livelingua.com/peace-corps/Wolof/NEW_WOLOF_BOOK.pdf#page=226",
+      "sourceTitle": "Elhadji Bamba Diop, Aay naa ci Wolof! Peace Corps Senegal (2012); hosted by Live Lingua"
+    },
+    {
+      "term": "yomb",
+      "meanings": [
+        "be easy"
+      ],
+      "sourceUrl": "https://fr.wiktionary.org/wiki/yomb",
+      "sourceTitle": "Wiktionnaire contributors — yomb (Wolof), CC BY-SA 4.0",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "term": "jóge",
+      "meanings": [
+        "leave; come from"
+      ],
+      "sourceUrl": "https://www.bu.edu/africa/files/2012/10/Wolof-3-Glossary.pdf#page=2",
+      "sourceTitle": "Boston University African Proverbs Project — glossary for Buur du mbokk"
+    },
+    {
+      "term": "réer",
+      "meanings": [
+        "be lost"
+      ],
+      "sourceUrl": "https://www.livelingua.com/peace-corps/Wolof/NEW_WOLOF_BOOK.pdf#page=227",
+      "sourceTitle": "Elhadji Bamba Diop, Aay naa ci Wolof! Peace Corps Senegal (2012); hosted by Live Lingua"
+    },
+    {
+      "term": "bor",
+      "meanings": [
+        "debt"
+      ],
+      "sourceUrl": "https://www.livelingua.com/peace-corps/Wolof/NEW_WOLOF_BOOK.pdf#page=10",
+      "sourceTitle": "Elhadji Bamba Diop, Aay naa ci Wolof! Peace Corps Senegal (2012); hosted by Live Lingua"
+    },
+    {
+      "term": "rakk",
+      "meanings": [
+        "younger sibling"
+      ],
+      "sourceUrl": "https://www.livelingua.com/peace-corps/Wolof/NEW_WOLOF_BOOK.pdf#page=8",
+      "sourceTitle": "Elhadji Bamba Diop, Aay naa ci Wolof! Peace Corps Senegal (2012); hosted by Live Lingua"
+    },
+    {
+      "term": "góor",
+      "meanings": [
+        "man; male"
+      ],
+      "sourceUrl": "https://www.livelingua.com/peace-corps/Wolof/NEW_WOLOF_BOOK.pdf#page=6",
+      "sourceTitle": "Elhadji Bamba Diop, Aay naa ci Wolof! Peace Corps Senegal (2012); hosted by Live Lingua"
+    },
+    {
+      "term": "jàng",
+      "meanings": [
+        "learn; study"
+      ],
+      "sourceUrl": "https://www.livelingua.com/peace-corps/Wolof/NEW_WOLOF_BOOK.pdf#page=25",
+      "sourceTitle": "Elhadji Bamba Diop, Aay naa ci Wolof! Peace Corps Senegal (2012); hosted by Live Lingua"
+    },
+    {
+      "term": "feeñ",
+      "meanings": [
+        "appear; become visible"
+      ],
+      "sourceUrl": "https://fr.wiktionary.org/wiki/fee%C3%B1",
+      "sourceTitle": "Wiktionnaire contributors — feeñ (Wolof), CC BY-SA 4.0",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "glosses": [
+    {
+      "id": 1,
+      "words": [
+        {
+          "text": "Maa",
+          "meaning": "I (emphasized)",
+          "sources": [
+            "https://www.livelingua.com/peace-corps/Wolof/NEW_WOLOF_BOOK.pdf#page=112"
+          ]
+        },
+        {
+          "text": "mën",
+          "meaning": "can; be able",
+          "sources": [
+            "https://www.livelingua.com/peace-corps/Wolof/NEW_WOLOF_BOOK.pdf#page=49"
+          ]
+        },
+        {
+          "text": "defal",
+          "meaning": "do it",
+          "sources": [
+            "https://www.livelingua.com/peace-corps/Wolof/NEW_WOLOF_BOOK.pdf#page=167"
+          ],
+          "note": "def “do” + -al, a command to one person."
+        },
+        {
+          "text": "ñu",
+          "meaning": "we; so that we…",
+          "sources": [
+            "https://www.bu.edu/africa/files/2012/10/Wolof-3-Glossary.pdf#page=2",
+            "https://www.livelingua.com/peace-corps/Wolof/NEW_WOLOF_BOOK.pdf#page=167"
+          ],
+          "note": "Here ñu is the first-person plural variant of nu, following the book’s translation."
+        },
+        {
+          "text": "gis",
+          "meaning": "see",
+          "sources": [
+            "https://www.livelingua.com/peace-corps/Wolof/NEW_WOLOF_BOOK.pdf#page=226"
+          ]
+        }
+      ],
+      "complete": true,
+      "sources": [
+        {
+          "url": "https://www.livelingua.com/peace-corps/Wolof/NEW_WOLOF_BOOK.pdf#page=112",
+          "title": "Elhadji Bamba Diop, Aay naa ci Wolof! Peace Corps Senegal (2012); hosted by Live Lingua"
+        },
+        {
+          "url": "https://www.livelingua.com/peace-corps/Wolof/NEW_WOLOF_BOOK.pdf#page=49",
+          "title": "Elhadji Bamba Diop, Aay naa ci Wolof! Peace Corps Senegal (2012); hosted by Live Lingua"
+        },
+        {
+          "url": "https://www.livelingua.com/peace-corps/Wolof/NEW_WOLOF_BOOK.pdf#page=167",
+          "title": "Elhadji Bamba Diop, Aay naa ci Wolof! Peace Corps Senegal (2012); hosted by Live Lingua"
+        },
+        {
+          "url": "https://www.bu.edu/africa/files/2012/10/Wolof-3-Glossary.pdf#page=2",
+          "title": "Boston University African Proverbs Project — glossary for Buur du mbokk"
+        },
+        {
+          "url": "https://www.livelingua.com/peace-corps/Wolof/NEW_WOLOF_BOOK.pdf#page=226",
+          "title": "Elhadji Bamba Diop, Aay naa ci Wolof! Peace Corps Senegal (2012); hosted by Live Lingua"
+        }
+      ],
+      "grammar": "Maa emphasizes the person making the claim. The command is followed by the purpose: let us see."
+    },
+    {
+      "id": 3,
+      "words": [
+        {
+          "text": "Def",
+          "meaning": "do",
+          "sources": [
+            "https://www.livelingua.com/peace-corps/Wolof/NEW_WOLOF_BOOK.pdf#page=224"
+          ]
+        }
+      ],
+      "complete": false,
+      "sources": [
+        {
+          "url": "https://www.livelingua.com/peace-corps/Wolof/NEW_WOLOF_BOOK.pdf#page=224",
+          "title": "Elhadji Bamba Diop, Aay naa ci Wolof! Peace Corps Senegal (2012); hosted by Live Lingua"
+        }
+      ],
+      "translationNotes": "The rest of this sentence has not yet been analyzed."
+    },
+    {
+      "id": 5,
+      "words": [
+        {
+          "text": "Jabar",
+          "meaning": "wife",
+          "sources": [
+            "https://www.livelingua.com/peace-corps/Wolof/NEW_WOLOF_BOOK.pdf#page=46"
+          ]
+        }
+      ],
+      "complete": false,
+      "sources": [
+        {
+          "url": "https://www.livelingua.com/peace-corps/Wolof/NEW_WOLOF_BOOK.pdf#page=46",
+          "title": "Elhadji Bamba Diop, Aay naa ci Wolof! Peace Corps Senegal (2012); hosted by Live Lingua"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "words": [
+        {
+          "text": "wax",
+          "meaning": "say; speak",
+          "sources": [
+            "https://fr.wiktionary.org/wiki/wax#Wolof"
+          ]
+        }
+      ],
+      "complete": false,
+      "sources": [
+        {
+          "url": "https://fr.wiktionary.org/wiki/wax#Wolof",
+          "title": "Wiktionnaire contributors — wax (Wolof), CC BY-SA 4.0"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "words": [
+        {
+          "text": "Nit",
+          "meaning": "person",
+          "sources": [
+            "https://archive.phonetics.ucla.edu/Language/WOL/wol_word-list_1993_01.html"
+          ]
+        },
+        {
+          "text": "wax",
+          "meaning": "say; speak",
+          "sources": [
+            "https://fr.wiktionary.org/wiki/wax#Wolof"
+          ]
+        }
+      ],
+      "complete": false,
+      "sources": [
+        {
+          "url": "https://archive.phonetics.ucla.edu/Language/WOL/wol_word-list_1993_01.html",
+          "title": "UCLA Phonetics Lab Archive — Wolof word list (1993)"
+        },
+        {
+          "url": "https://fr.wiktionary.org/wiki/wax#Wolof",
+          "title": "Wiktionnaire contributors — wax (Wolof), CC BY-SA 4.0"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "words": [
+        {
+          "text": "Wax",
+          "meaning": "speaking; talk",
+          "sources": [
+            "https://fr.wiktionary.org/wiki/wax#Wolof"
+          ]
+        },
+        {
+          "text": "yomb",
+          "meaning": "be easy",
+          "sources": [
+            "https://fr.wiktionary.org/wiki/yomb"
+          ]
+        },
+        {
+          "text": "na",
+          "meaning": "affirmative marker",
+          "sources": [
+            "https://www.livelingua.com/peace-corps/Wolof/NEW_WOLOF_BOOK.pdf#page=49"
+          ],
+          "note": "Completes the statement yomb na: “is easy.”"
+        },
+        {
+          "text": "wànte",
+          "meaning": "but",
+          "sources": [
+            "https://www.livelingua.com/peace-corps/Wolof/NEW_WOLOF_BOOK.pdf#page=215"
+          ],
+          "note": "The manual also writes this conjunction wante."
+        },
+        {
+          "text": "def",
+          "meaning": "doing",
+          "sources": [
+            "https://www.livelingua.com/peace-corps/Wolof/NEW_WOLOF_BOOK.pdf#page=224"
+          ]
+        },
+        {
+          "text": "yombul",
+          "meaning": "is not easy",
+          "sources": [
+            "https://fr.wiktionary.org/wiki/yomb",
+            "https://www.livelingua.com/peace-corps/Wolof/NEW_WOLOF_BOOK.pdf#page=50"
+          ],
+          "note": "yomb “be easy” + -ul, third-person negation."
+        }
+      ],
+      "complete": true,
+      "sources": [
+        {
+          "url": "https://fr.wiktionary.org/wiki/wax#Wolof",
+          "title": "Wiktionnaire contributors — wax (Wolof), CC BY-SA 4.0"
+        },
+        {
+          "url": "https://fr.wiktionary.org/wiki/yomb",
+          "title": "Wiktionnaire contributors — yomb (Wolof), CC BY-SA 4.0"
+        },
+        {
+          "url": "https://www.livelingua.com/peace-corps/Wolof/NEW_WOLOF_BOOK.pdf#page=49",
+          "title": "Elhadji Bamba Diop, Aay naa ci Wolof! Peace Corps Senegal (2012); hosted by Live Lingua"
+        },
+        {
+          "url": "https://www.livelingua.com/peace-corps/Wolof/NEW_WOLOF_BOOK.pdf#page=215",
+          "title": "Elhadji Bamba Diop, Aay naa ci Wolof! Peace Corps Senegal (2012); hosted by Live Lingua"
+        },
+        {
+          "url": "https://www.livelingua.com/peace-corps/Wolof/NEW_WOLOF_BOOK.pdf#page=224",
+          "title": "Elhadji Bamba Diop, Aay naa ci Wolof! Peace Corps Senegal (2012); hosted by Live Lingua"
+        },
+        {
+          "url": "https://www.livelingua.com/peace-corps/Wolof/NEW_WOLOF_BOOK.pdf#page=50",
+          "title": "Elhadji Bamba Diop, Aay naa ci Wolof! Peace Corps Senegal (2012); hosted by Live Lingua"
+        }
+      ],
+      "grammar": "The first clause states a quality; the second negates it with -ul."
+    },
+    {
+      "id": 10,
+      "words": [
+        {
+          "text": "jóge",
+          "meaning": "leave; come from",
+          "sources": [
+            "https://www.bu.edu/africa/files/2012/10/Wolof-3-Glossary.pdf#page=2"
+          ]
+        }
+      ],
+      "complete": false,
+      "sources": [
+        {
+          "url": "https://www.bu.edu/africa/files/2012/10/Wolof-3-Glossary.pdf#page=2",
+          "title": "Boston University African Proverbs Project — glossary for Buur du mbokk"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "words": [
+        {
+          "text": "réer",
+          "meaning": "be lost",
+          "sources": [
+            "https://www.livelingua.com/peace-corps/Wolof/NEW_WOLOF_BOOK.pdf#page=227"
+          ]
+        }
+      ],
+      "complete": false,
+      "sources": [
+        {
+          "url": "https://www.livelingua.com/peace-corps/Wolof/NEW_WOLOF_BOOK.pdf#page=227",
+          "title": "Elhadji Bamba Diop, Aay naa ci Wolof! Peace Corps Senegal (2012); hosted by Live Lingua"
+        }
+      ]
+    },
+    {
+      "id": 113,
+      "words": [
+        {
+          "text": "Bor",
+          "meaning": "debt",
+          "sources": [
+            "https://www.livelingua.com/peace-corps/Wolof/NEW_WOLOF_BOOK.pdf#page=10"
+          ]
+        },
+        {
+          "text": "du",
+          "meaning": "does not",
+          "sources": [
+            "https://www.livelingua.com/peace-corps/Wolof/NEW_WOLOF_BOOK.pdf#page=79"
+          ]
+        },
+        {
+          "text": "am",
+          "meaning": "have",
+          "sources": [
+            "https://www.livelingua.com/peace-corps/Wolof/NEW_WOLOF_BOOK.pdf#page=49"
+          ]
+        },
+        {
+          "text": "rakk",
+          "meaning": "younger sibling",
+          "sources": [
+            "https://www.livelingua.com/peace-corps/Wolof/NEW_WOLOF_BOOK.pdf#page=8"
+          ]
+        }
+      ],
+      "complete": true,
+      "sources": [
+        {
+          "url": "https://www.livelingua.com/peace-corps/Wolof/NEW_WOLOF_BOOK.pdf#page=10",
+          "title": "Elhadji Bamba Diop, Aay naa ci Wolof! Peace Corps Senegal (2012); hosted by Live Lingua"
+        },
+        {
+          "url": "https://www.livelingua.com/peace-corps/Wolof/NEW_WOLOF_BOOK.pdf#page=79",
+          "title": "Elhadji Bamba Diop, Aay naa ci Wolof! Peace Corps Senegal (2012); hosted by Live Lingua"
+        },
+        {
+          "url": "https://www.livelingua.com/peace-corps/Wolof/NEW_WOLOF_BOOK.pdf#page=49",
+          "title": "Elhadji Bamba Diop, Aay naa ci Wolof! Peace Corps Senegal (2012); hosted by Live Lingua"
+        },
+        {
+          "url": "https://www.livelingua.com/peace-corps/Wolof/NEW_WOLOF_BOOK.pdf#page=8",
+          "title": "Elhadji Bamba Diop, Aay naa ci Wolof! Peace Corps Senegal (2012); hosted by Live Lingua"
+        }
+      ],
+      "translationNotes": "The book says “little brother”; rakk itself does not specify gender."
+    },
+    {
+      "id": 228,
+      "words": [
+        {
+          "text": "Góor",
+          "meaning": "man; male",
+          "sources": [
+            "https://www.livelingua.com/peace-corps/Wolof/NEW_WOLOF_BOOK.pdf#page=6"
+          ]
+        },
+        {
+          "text": "yombul",
+          "meaning": "is not easy",
+          "sources": [
+            "https://fr.wiktionary.org/wiki/yomb",
+            "https://www.livelingua.com/peace-corps/Wolof/NEW_WOLOF_BOOK.pdf#page=50"
+          ],
+          "note": "yomb “be easy” + -ul, third-person negation."
+        }
+      ],
+      "complete": true,
+      "sources": [
+        {
+          "url": "https://www.livelingua.com/peace-corps/Wolof/NEW_WOLOF_BOOK.pdf#page=6",
+          "title": "Elhadji Bamba Diop, Aay naa ci Wolof! Peace Corps Senegal (2012); hosted by Live Lingua"
+        },
+        {
+          "url": "https://fr.wiktionary.org/wiki/yomb",
+          "title": "Wiktionnaire contributors — yomb (Wolof), CC BY-SA 4.0"
+        },
+        {
+          "url": "https://www.livelingua.com/peace-corps/Wolof/NEW_WOLOF_BOOK.pdf#page=50",
+          "title": "Elhadji Bamba Diop, Aay naa ci Wolof! Peace Corps Senegal (2012); hosted by Live Lingua"
+        }
+      ],
+      "translationNotes": "The book interprets this compact wording as “It is not easy to be a man.”"
+    },
+    {
+      "id": 403,
+      "words": [
+        {
+          "text": "Buur",
+          "meaning": "king",
+          "sources": [
+            "https://www.bu.edu/africa/files/2012/10/Wolof-3-Glossary.pdf#page=1"
+          ]
+        },
+        {
+          "text": "du",
+          "meaning": "is not",
+          "sources": [
+            "https://www.livelingua.com/peace-corps/Wolof/NEW_WOLOF_BOOK.pdf#page=27"
+          ],
+          "note": "Negative linking form here; du has other uses in other sentences."
+        },
+        {
+          "text": "mbokk",
+          "meaning": "relative; kin",
+          "sources": [
+            "https://www.bu.edu/africa/files/2012/10/Wolof-3-Glossary.pdf#page=2"
+          ]
+        }
+      ],
+      "complete": true,
+      "sources": [
+        {
+          "url": "https://www.bu.edu/africa/files/2012/10/Wolof-3-Glossary.pdf#page=1",
+          "title": "Boston University African Proverbs Project — glossary for Buur du mbokk"
+        },
+        {
+          "url": "https://www.livelingua.com/peace-corps/Wolof/NEW_WOLOF_BOOK.pdf#page=27",
+          "title": "Elhadji Bamba Diop, Aay naa ci Wolof! Peace Corps Senegal (2012); hosted by Live Lingua"
+        },
+        {
+          "url": "https://www.bu.edu/africa/files/2012/10/Wolof-3-Glossary.pdf#page=2",
+          "title": "Boston University African Proverbs Project — glossary for Buur du mbokk"
+        }
+      ]
+    },
+    {
+      "id": 418,
+      "words": [
+        {
+          "text": "Jàng",
+          "meaning": "learn; study",
+          "sources": [
+            "https://www.livelingua.com/peace-corps/Wolof/NEW_WOLOF_BOOK.pdf#page=25"
+          ]
+        }
+      ],
+      "complete": false,
+      "sources": [
+        {
+          "url": "https://www.livelingua.com/peace-corps/Wolof/NEW_WOLOF_BOOK.pdf#page=25",
+          "title": "Elhadji Bamba Diop, Aay naa ci Wolof! Peace Corps Senegal (2012); hosted by Live Lingua"
+        }
+      ]
+    },
+    {
+      "id": 504,
+      "words": [
+        {
+          "text": "Ku",
+          "meaning": "whoever; the person who",
+          "sources": [
+            "https://www.livelingua.com/peace-corps/Wolof/NEW_WOLOF_BOOK.pdf#page=153"
+          ]
+        },
+        {
+          "text": "muñ",
+          "meaning": "be patient; persevere",
+          "sources": [
+            "https://www.bu.edu/africa/files/2012/10/Wolof-3-Glossary.pdf#page=2"
+          ]
+        }
+      ],
+      "complete": false,
+      "sources": [
+        {
+          "url": "https://www.livelingua.com/peace-corps/Wolof/NEW_WOLOF_BOOK.pdf#page=153",
+          "title": "Elhadji Bamba Diop, Aay naa ci Wolof! Peace Corps Senegal (2012); hosted by Live Lingua"
+        },
+        {
+          "url": "https://www.bu.edu/africa/files/2012/10/Wolof-3-Glossary.pdf#page=2",
+          "title": "Boston University African Proverbs Project — glossary for Buur du mbokk"
+        }
+      ],
+      "translationNotes": "The final word muuñ has not yet received a checked word entry. Its long vowel distinguishes it from muñ."
+    },
+    {
+      "id": 658,
+      "words": [
+        {
+          "text": "Ku",
+          "meaning": "whoever; the person who",
+          "sources": [
+            "https://www.livelingua.com/peace-corps/Wolof/NEW_WOLOF_BOOK.pdf#page=153"
+          ]
+        },
+        {
+          "text": "wax",
+          "meaning": "speaks",
+          "sources": [
+            "https://fr.wiktionary.org/wiki/wax#Wolof"
+          ]
+        },
+        {
+          "text": "feeñ",
+          "meaning": "appears; becomes visible",
+          "sources": [
+            "https://fr.wiktionary.org/wiki/fee%C3%B1"
+          ]
+        }
+      ],
+      "complete": true,
+      "sources": [
+        {
+          "url": "https://www.livelingua.com/peace-corps/Wolof/NEW_WOLOF_BOOK.pdf#page=153",
+          "title": "Elhadji Bamba Diop, Aay naa ci Wolof! Peace Corps Senegal (2012); hosted by Live Lingua"
+        },
+        {
+          "url": "https://fr.wiktionary.org/wiki/wax#Wolof",
+          "title": "Wiktionnaire contributors — wax (Wolof), CC BY-SA 4.0"
+        },
+        {
+          "url": "https://fr.wiktionary.org/wiki/fee%C3%B1",
+          "title": "Wiktionnaire contributors — feeñ (Wolof), CC BY-SA 4.0"
+        }
+      ],
+      "translationNotes": "“Gives himself away” is the book’s interpretation of becoming visible through speech."
+    }
+  ],
+  "recordings": [
+    {
+      "id": 139,
+      "lesson": 1,
+      "kind": "video",
+      "url": "https://www.youtube.com/watch?v=W8ZxBWtXVC4",
+      "embedUrl": "https://www.youtube.com/embed/W8ZxBWtXVC4",
+      "title": "Ku dee ca ja ba, yaa tàgge sa bopp.",
+      "sourceUrl": "https://www.bu.edu/africa/forstudents/alp/lang-teaching-resources/african-proverbs-project/wolof-proverbs/",
+      "sourceTitle": "Boston University African Studies Center — African Proverbs Project",
+      "transcriptUrl": "https://www.bu.edu/africa/files/2012/10/Wolof-1-Transcript.pdf",
+      "glossaryUrl": "https://www.bu.edu/africa/files/2012/10/Wolof-1-GLOSSARY.pdf",
+      "oEmbedVerified": true,
+      "youtubeTitle": "Wolof Proverb 01"
+    },
+    {
+      "id": 403,
+      "lesson": 3,
+      "kind": "video",
+      "url": "https://www.youtube.com/watch?v=hXqWQ5e1bY0",
+      "embedUrl": "https://www.youtube.com/embed/hXqWQ5e1bY0",
+      "title": "Buur du mbokk.",
+      "sourceUrl": "https://www.bu.edu/africa/forstudents/alp/lang-teaching-resources/african-proverbs-project/wolof-proverbs/",
+      "sourceTitle": "Boston University African Studies Center — African Proverbs Project",
+      "transcriptUrl": "https://www.bu.edu/africa/files/2012/10/Wolof-3-Transcript.pdf",
+      "glossaryUrl": "https://www.bu.edu/africa/files/2012/10/Wolof-3-Glossary.pdf",
+      "oEmbedVerified": true,
+      "youtubeTitle": "Wolof Proverb 03"
+    },
+    {
+      "id": 197,
+      "lesson": 4,
+      "kind": "video",
+      "url": "https://www.youtube.com/watch?v=zeuktv6kQkY",
+      "embedUrl": "https://www.youtube.com/embed/zeuktv6kQkY",
+      "title": "Doomu jiitle du doom.",
+      "sourceUrl": "https://www.bu.edu/africa/forstudents/alp/lang-teaching-resources/african-proverbs-project/wolof-proverbs/",
+      "sourceTitle": "Boston University African Studies Center — African Proverbs Project",
+      "transcriptUrl": "https://www.bu.edu/africa/files/2012/10/Wolof-4-Transcript.pdf",
+      "glossaryUrl": "https://www.bu.edu/africa/files/2012/10/Wolof-4-GLOSSARY.pdf",
+      "variantNote": "BU writes “Doomu jiitle”; the collection’s main text writes “Doomu-jittle”.",
+      "oEmbedVerified": true,
+      "youtubeTitle": "Wolof Proverb 04"
+    },
+    {
+      "id": 221,
+      "lesson": 5,
+      "kind": "video",
+      "url": "https://www.youtube.com/watch?v=5-zHVtnR5es",
+      "embedUrl": "https://www.youtube.com/embed/5-zHVtnR5es",
+      "title": "Jigéén soppal te bul wóólu.",
+      "sourceUrl": "https://www.bu.edu/africa/forstudents/alp/lang-teaching-resources/african-proverbs-project/wolof-proverbs/",
+      "sourceTitle": "Boston University African Studies Center — African Proverbs Project",
+      "transcriptUrl": "https://www.bu.edu/africa/files/2012/10/Wolof-5-Transcript.pdf",
+      "glossaryUrl": "https://www.bu.edu/africa/files/2012/10/Wolof-5-GLOSSARY.pdf",
+      "variantNote": "The lesson title spells “Jigéén” and “wóólu”; the collection spells “Jigéen” and “wóolu”.",
+      "oEmbedVerified": true,
+      "youtubeTitle": "Wolof Proverb 05"
+    },
+    {
+      "id": 505,
+      "lesson": 6,
+      "kind": "video",
+      "url": "https://www.youtube.com/watch?v=85tYvOQUBs4",
+      "embedUrl": "https://www.youtube.com/embed/85tYvOQUBs4",
+      "title": "Ku yàgg ci teen, baag fekk la fa.",
+      "sourceUrl": "https://www.bu.edu/africa/forstudents/alp/lang-teaching-resources/african-proverbs-project/wolof-proverbs/",
+      "sourceTitle": "Boston University African Studies Center — African Proverbs Project",
+      "transcriptUrl": "https://www.bu.edu/africa/files/2012/10/Wolof-6-Transcript.pdf",
+      "glossaryUrl": "https://www.bu.edu/africa/files/2012/10/Wolof-6-GLOSSARY.pdf",
+      "variantNote": "The BU transcript title reads “Ku Yàgg Ci Teen”; its webpage heading instead says “Ku gàgg ci teen”. The collection reads “Ku yàgg cib teen”.",
+      "oEmbedVerified": true,
+      "youtubeTitle": "Wolof Proverb 06"
+    },
+    {
+      "id": 81,
+      "lesson": 7,
+      "kind": "video",
+      "url": "https://www.youtube.com/watch?v=HuPFsBvvH8Y",
+      "embedUrl": "https://www.youtube.com/embed/HuPFsBvvH8Y",
+      "title": "Ku topp sa banneex, góób sa naqar.",
+      "sourceUrl": "https://www.bu.edu/africa/forstudents/alp/lang-teaching-resources/african-proverbs-project/wolof-proverbs/",
+      "sourceTitle": "Boston University African Studies Center — African Proverbs Project",
+      "transcriptUrl": "https://www.bu.edu/africa/files/2012/10/Wolof-7-Transcript.pdf",
+      "glossaryUrl": "https://www.bu.edu/africa/files/2012/10/Wolof-7-GLOSSARY.pdf",
+      "variantNote": "This follows the collection’s alternate version “Ku topp sa bànneex, góob sa naqar”, with different accent spelling.",
+      "oEmbedVerified": true,
+      "youtubeTitle": "Wolof Proverb 07"
+    },
+    {
+      "id": 148,
+      "lesson": 9,
+      "kind": "video",
+      "url": "https://www.youtube.com/watch?v=3O2wle-bTS4",
+      "embedUrl": "https://www.youtube.com/embed/3O2wle-bTS4",
+      "title": "Mag mat naa bàyyi cim rééw.",
+      "sourceUrl": "https://www.bu.edu/africa/forstudents/alp/lang-teaching-resources/african-proverbs-project/wolof-proverbs/",
+      "sourceTitle": "Boston University African Studies Center — African Proverbs Project",
+      "transcriptUrl": "https://www.bu.edu/africa/files/2012/10/Wolof-9-Transcript.pdf",
+      "glossaryUrl": "https://www.bu.edu/africa/files/2012/10/Wolof-9-GLOSSARY.pdf",
+      "variantNote": "The lesson title spells “rééw”; the collection spells “réew”.",
+      "oEmbedVerified": true,
+      "youtubeTitle": "Wolof Proverb 09"
+    },
+    {
+      "id": 593,
+      "lesson": 10,
+      "kind": "video",
+      "url": "https://www.youtube.com/watch?v=B5Ogf16wjEU",
+      "embedUrl": "https://www.youtube.com/embed/B5Ogf16wjEU",
+      "title": "Nit, nitay garabam.",
+      "sourceUrl": "https://www.bu.edu/africa/forstudents/alp/lang-teaching-resources/african-proverbs-project/wolof-proverbs/",
+      "sourceTitle": "Boston University African Studies Center — African Proverbs Project",
+      "transcriptUrl": "https://www.bu.edu/africa/files/2012/10/Wolof-10-Transcript.pdf",
+      "glossaryUrl": "https://www.bu.edu/africa/files/2012/10/Wolof-10-GLOSSARY.pdf",
+      "variantNote": "BU joins “nitay”; the collection separates “nit ay”.",
+      "oEmbedVerified": true,
+      "youtubeTitle": "Wolof Proverb 10"
+    }
+  ],
+  "wordAudio": [
+    {
+      "word": "am",
+      "kind": "audio",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Wo-am.ogg",
+      "mimeType": "audio/ogg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Wo-am.ogg",
+      "speaker": "Mamadou Sy",
+      "speakerLocation": "Dakar, Senegal",
+      "credit": "Mamadou Sy / Shtooka Project",
+      "license": "CC BY 2.0 fr",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/fr/deed.en",
+      "description": "Pronunciation of word \"am\" in Wolof language. Male voice. Speaker from Dakar, Senegal.",
+      "dateRecorded": "2009-04-08"
+    },
+    {
+      "word": "baax",
+      "kind": "audio",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Wo-baax.ogg",
+      "mimeType": "audio/ogg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Wo-baax.ogg",
+      "speaker": "Mamadou Sy",
+      "speakerLocation": "Dakar, Senegal",
+      "credit": "Mamadou Sy / Shtooka Project",
+      "license": "CC BY 2.0 fr",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/fr/deed.en",
+      "description": "Pronunciation of word \"baax\" in Wolof language. Male voice. Speaker from Dakar, Senegal.",
+      "dateRecorded": "2009-04-08"
+    },
+    {
+      "word": "baay",
+      "kind": "audio",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Wo-baay.ogg",
+      "mimeType": "audio/ogg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Wo-baay.ogg",
+      "speaker": "Mamadou Sy",
+      "speakerLocation": "Dakar, Senegal",
+      "credit": "Mamadou Sy / Shtooka Project",
+      "license": "CC BY 2.0 fr",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/fr/deed.en",
+      "description": "Pronunciation of word \"baay\" in Wolof language. Male voice. Speaker from Dakar, Senegal.",
+      "dateRecorded": "2009-04-08"
+    },
+    {
+      "word": "bukki",
+      "kind": "audio",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Wo-bukki.ogg",
+      "mimeType": "audio/ogg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Wo-bukki.ogg",
+      "speaker": "Mamadou Sy",
+      "speakerLocation": "Dakar, Senegal",
+      "credit": "Mamadou Sy / Shtooka Project",
+      "license": "CC BY 2.0 fr",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/fr/deed.en",
+      "description": "Pronunciation of word \"bukki\" in Wolof language. Male voice. Speaker from Dakar, Senegal.",
+      "dateRecorded": "2009-04-08"
+    },
+    {
+      "word": "bëgg",
+      "kind": "audio",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Wo-b%C3%ABgg.ogg",
+      "mimeType": "audio/ogg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Wo-b%C3%ABgg.ogg",
+      "speaker": "Mamadou Sy",
+      "speakerLocation": "Dakar, Senegal",
+      "credit": "Mamadou Sy / Shtooka Project",
+      "license": "CC BY 2.0 fr",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/fr/deed.en",
+      "description": "Pronunciation of word \"bëgg\" in Wolof language. Male voice. Speaker from Dakar, Senegal.",
+      "dateRecorded": "2009-04-08"
+    },
+    {
+      "word": "def",
+      "kind": "audio",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Wo-def.ogg",
+      "mimeType": "audio/ogg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Wo-def.ogg",
+      "speaker": "Mamadou Sy",
+      "speakerLocation": "Dakar, Senegal",
+      "credit": "Mamadou Sy / Shtooka Project",
+      "license": "CC BY 2.0 fr",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/fr/deed.en",
+      "description": "Pronunciation of word \"def\" in Wolof language. Male voice. Speaker from Dakar, Senegal.",
+      "dateRecorded": "2009-04-08"
+    },
+    {
+      "word": "dem",
+      "kind": "audio",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Wo-dem.ogg",
+      "mimeType": "audio/ogg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Wo-dem.ogg",
+      "speaker": "Mamadou Sy",
+      "speakerLocation": "Dakar, Senegal",
+      "credit": "Mamadou Sy / Shtooka Project",
+      "license": "CC BY 2.0 fr",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/fr/deed.en",
+      "description": "Pronunciation of word \"dem\" in Wolof language. Male voice. Speaker from Dakar, Senegal.",
+      "dateRecorded": "2009-04-08"
+    },
+    {
+      "word": "doom",
+      "kind": "audio",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Wo-doom.ogg",
+      "mimeType": "audio/ogg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Wo-doom.ogg",
+      "speaker": "Mamadou Sy",
+      "speakerLocation": "Dakar, Senegal",
+      "credit": "Mamadou Sy / Shtooka Project",
+      "license": "CC BY 2.0 fr",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/fr/deed.en",
+      "description": "Pronunciation of word \"doom\" in Wolof language. Male voice. Speaker from Dakar, Senegal.",
+      "dateRecorded": "2009-04-08"
+    },
+    {
+      "word": "garab",
+      "kind": "audio",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Wo-garab.ogg",
+      "mimeType": "audio/ogg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Wo-garab.ogg",
+      "speaker": "Mamadou Sy",
+      "speakerLocation": "Dakar, Senegal",
+      "credit": "Mamadou Sy / Shtooka Project",
+      "license": "CC BY 2.0 fr",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/fr/deed.en",
+      "description": "Pronunciation of word \"garab\" in Wolof language. Male voice. Speaker from Dakar, Senegal.",
+      "dateRecorded": "2009-04-08"
+    },
+    {
+      "word": "gaynde",
+      "kind": "audio",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Wo-gaynde.ogg",
+      "mimeType": "audio/ogg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Wo-gaynde.ogg",
+      "speaker": "Mamadou Sy",
+      "speakerLocation": "Dakar, Senegal",
+      "credit": "Mamadou Sy / Shtooka Project",
+      "license": "CC BY 2.0 fr",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/fr/deed.en",
+      "description": "Pronunciation of word \"gaynde\" in Wolof language. Male voice. Speaker from Dakar, Senegal.",
+      "dateRecorded": "2009-04-08"
+    },
+    {
+      "word": "gis",
+      "kind": "audio",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Wo-gis.ogg",
+      "mimeType": "audio/ogg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Wo-gis.ogg",
+      "speaker": "Mamadou Sy",
+      "speakerLocation": "Dakar, Senegal",
+      "credit": "Mamadou Sy / Shtooka Project",
+      "license": "CC BY 2.0 fr",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/fr/deed.en",
+      "description": "Pronunciation of word \"gis\" in Wolof language. Male voice. Speaker from Dakar, Senegal.",
+      "dateRecorded": "2009-04-08"
+    },
+    {
+      "word": "jabar",
+      "kind": "audio",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Wo-jabar.ogg",
+      "mimeType": "audio/ogg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Wo-jabar.ogg",
+      "speaker": "Mamadou Sy",
+      "speakerLocation": "Dakar, Senegal",
+      "credit": "Mamadou Sy / Shtooka Project",
+      "license": "CC BY 2.0 fr",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/fr/deed.en",
+      "description": "Pronunciation of word \"jabar\" in Wolof language. Male voice. Speaker from Dakar, Senegal.",
+      "dateRecorded": "2009-04-08"
+    },
+    {
+      "word": "jox",
+      "kind": "audio",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Wo-jox.ogg",
+      "mimeType": "audio/ogg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Wo-jox.ogg",
+      "speaker": "Mamadou Sy",
+      "speakerLocation": "Dakar, Senegal",
+      "credit": "Mamadou Sy / Shtooka Project",
+      "license": "CC BY 2.0 fr",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/fr/deed.en",
+      "description": "Pronunciation of word \"jox\" in Wolof language. Male voice. Speaker from Dakar, Senegal.",
+      "dateRecorded": "2009-04-08"
+    },
+    {
+      "word": "jëf",
+      "kind": "audio",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Wo-j%C3%ABf.ogg",
+      "mimeType": "audio/ogg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Wo-j%C3%ABf.ogg",
+      "speaker": "Mamadou Sy",
+      "speakerLocation": "Dakar, Senegal",
+      "credit": "Mamadou Sy / Shtooka Project",
+      "license": "CC BY 2.0 fr",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/fr/deed.en",
+      "description": "Pronunciation of word \"jëf\" in Wolof language. Male voice. Speaker from Dakar, Senegal.",
+      "dateRecorded": "2009-04-08"
+    },
+    {
+      "word": "kër",
+      "kind": "audio",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Wo-k%C3%ABr.ogg",
+      "mimeType": "audio/ogg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Wo-k%C3%ABr.ogg",
+      "speaker": "Mamadou Sy",
+      "speakerLocation": "Dakar, Senegal",
+      "credit": "Mamadou Sy / Shtooka Project",
+      "license": "CC BY 2.0 fr",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/fr/deed.en",
+      "description": "Pronunciation of word \"kër\" in Wolof language. Male voice. Speaker from Dakar, Senegal.",
+      "dateRecorded": "2009-04-08"
+    },
+    {
+      "word": "lekk",
+      "kind": "audio",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Wo-lekk.ogg",
+      "mimeType": "audio/ogg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Wo-lekk.ogg",
+      "speaker": "Mamadou Sy",
+      "speakerLocation": "Dakar, Senegal",
+      "credit": "Mamadou Sy / Shtooka Project",
+      "license": "CC BY 2.0 fr",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/fr/deed.en",
+      "description": "Pronunciation of word \"lekk\" in Wolof language. Male voice. Speaker from Dakar, Senegal.",
+      "dateRecorded": "2009-04-08"
+    },
+    {
+      "word": "man",
+      "kind": "audio",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Wo-man.ogg",
+      "mimeType": "audio/ogg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Wo-man.ogg",
+      "speaker": "Mamadou Sy",
+      "speakerLocation": "Dakar, Senegal",
+      "credit": "Mamadou Sy / Shtooka Project",
+      "license": "CC BY 2.0 fr",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/fr/deed.en",
+      "description": "Pronunciation of word \"man\" in Wolof language. Male voice. Speaker from Dakar, Senegal.",
+      "dateRecorded": "2009-04-08"
+    },
+    {
+      "word": "mbokk",
+      "kind": "audio",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Wo-mbokk.ogg",
+      "mimeType": "audio/ogg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Wo-mbokk.ogg",
+      "speaker": "Mamadou Sy",
+      "speakerLocation": "Dakar, Senegal",
+      "credit": "Mamadou Sy / Shtooka Project",
+      "license": "CC BY 2.0 fr",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/fr/deed.en",
+      "description": "Pronunciation of word \"mbokk\" in Wolof language. Male voice. Speaker from Dakar, Senegal.",
+      "dateRecorded": "2009-04-08"
+    },
+    {
+      "word": "mën",
+      "kind": "audio",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Wo-m%C3%ABn.ogg",
+      "mimeType": "audio/ogg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Wo-m%C3%ABn.ogg",
+      "speaker": "Mamadou Sy",
+      "speakerLocation": "Dakar, Senegal",
+      "credit": "Mamadou Sy / Shtooka Project",
+      "license": "CC BY 2.0 fr",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/fr/deed.en",
+      "description": "Pronunciation of word \"mën\" in Wolof language. Male voice. Speaker from Dakar, Senegal.",
+      "dateRecorded": "2009-04-08"
+    },
+    {
+      "word": "ndey",
+      "kind": "audio",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Wo-ndey.ogg",
+      "mimeType": "audio/ogg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Wo-ndey.ogg",
+      "speaker": "Mamadou Sy",
+      "speakerLocation": "Dakar, Senegal",
+      "credit": "Mamadou Sy / Shtooka Project",
+      "license": "CC BY 2.0 fr",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/fr/deed.en",
+      "description": "Pronunciation of word \"ndey\" in Wolof language. Male voice. Speaker from Dakar, Senegal.",
+      "dateRecorded": "2009-04-08"
+    },
+    {
+      "word": "ndox",
+      "kind": "audio",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Wo-ndox.ogg",
+      "mimeType": "audio/ogg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Wo-ndox.ogg",
+      "speaker": "Mamadou Sy",
+      "speakerLocation": "Dakar, Senegal",
+      "credit": "Mamadou Sy / Shtooka Project",
+      "license": "CC BY 2.0 fr",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/fr/deed.en",
+      "description": "Pronunciation of word \"ndox\" in Wolof language. Male voice. Speaker from Dakar, Senegal.",
+      "dateRecorded": "2009-04-08"
+    },
+    {
+      "word": "nekk",
+      "kind": "audio",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Wo-nekk.ogg",
+      "mimeType": "audio/ogg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Wo-nekk.ogg",
+      "speaker": "Mamadou Sy",
+      "speakerLocation": "Dakar, Senegal",
+      "credit": "Mamadou Sy / Shtooka Project",
+      "license": "CC BY 2.0 fr",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/fr/deed.en",
+      "description": "Pronunciation of word \"nekk\" in Wolof language. Male voice. Speaker from Dakar, Senegal.",
+      "dateRecorded": "2009-04-08"
+    },
+    {
+      "word": "wax",
+      "kind": "audio",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Wo-wax.ogg",
+      "mimeType": "audio/ogg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Wo-wax.ogg",
+      "speaker": "Mamadou Sy",
+      "speakerLocation": "Dakar, Senegal",
+      "credit": "Mamadou Sy / Shtooka Project",
+      "license": "CC BY 2.0 fr",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/fr/deed.en",
+      "description": "Pronunciation of word \"wax\" in Wolof language. Male voice. Speaker from Dakar, Senegal.",
+      "dateRecorded": "2009-04-08"
+    },
+    {
+      "word": "xarit",
+      "kind": "audio",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Wo-xarit.ogg",
+      "mimeType": "audio/ogg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Wo-xarit.ogg",
+      "speaker": "Mamadou Sy",
+      "speakerLocation": "Dakar, Senegal",
+      "credit": "Mamadou Sy / Shtooka Project",
+      "license": "CC BY 2.0 fr",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/fr/deed.en",
+      "description": "Pronunciation of word \"xarit\" in Wolof language. Male voice. Speaker from Dakar, Senegal.",
+      "dateRecorded": "2009-04-08"
+    },
+    {
+      "word": "xol",
+      "kind": "audio",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Wo-xol.ogg",
+      "mimeType": "audio/ogg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Wo-xol.ogg",
+      "speaker": "Mamadou Sy",
+      "speakerLocation": "Dakar, Senegal",
+      "credit": "Mamadou Sy / Shtooka Project",
+      "license": "CC BY 2.0 fr",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/fr/deed.en",
+      "description": "Pronunciation of word \"xol\" in Wolof language. Male voice. Speaker from Dakar, Senegal.",
+      "dateRecorded": "2009-04-08"
+    },
+    {
+      "word": "ñam",
+      "kind": "audio",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Wo-%C3%B1am.ogg",
+      "mimeType": "audio/ogg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Wo-%C3%B1am.ogg",
+      "speaker": "Mamadou Sy",
+      "speakerLocation": "Dakar, Senegal",
+      "credit": "Mamadou Sy / Shtooka Project",
+      "license": "CC BY 2.0 fr",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/fr/deed.en",
+      "description": "Pronunciation of word \"ñam\" in Wolof language. Male voice. Speaker from Dakar, Senegal.",
+      "dateRecorded": "2009-04-08"
+    }
+  ],
+  "attribution": {
+    "text": "Word entries adapted and translated into English from Wiktionnaire contributors are credited at their source links and licensed CC BY-SA 4.0. Other sources are cited for short factual glosses and original paraphrases.",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "wiktionaryWords": [
+      "wax",
+      "yomb",
+      "feeñ"
+    ]
+  }
+}

@@ -1,0 +1,1393 @@
+{
+  "title": "Wisdom of the Wolof Sages",
+  "subtitle": "A Collection of Proverbs from Senegal translated and explained in English",
+  "author": "Dr. Richard Shawyer",
+  "edition": "First Edition",
+  "year": 2009,
+  "date": "August 2009",
+  "copyright": "© 2009 Dr. Richard Shawyer",
+  "sourceFilename": "Wolof Proverbs.pdf",
+  "sourceSha256": "9a606a0e4b1fa9882fdb8f3325a98710dbf9560be6b2009286b8d3403082dd40",
+  "pageCount": 101,
+  "proverbCount": 743,
+  "topicCount": 207,
+  "languages": [
+    "wo",
+    "en"
+  ],
+  "topics": [
+    {
+      "name": "Action",
+      "page": 3,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Advice",
+      "page": 4,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Anger",
+      "page": 5,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Appearances",
+      "page": 5,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Beauty",
+      "page": 6,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Behaviour",
+      "page": 6,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Belongings",
+      "page": 7,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Benefit",
+      "page": 7,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Boasting",
+      "page": 7,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Cause and Effect",
+      "page": 7,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Character",
+      "page": 8,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Choice",
+      "page": 9,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Co-operation",
+      "page": 9,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Community",
+      "page": 10,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Companions",
+      "page": 11,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Competence",
+      "page": 12,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Complaints",
+      "page": 13,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Confidence",
+      "page": 13,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Conflict",
+      "page": 13,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Conformity",
+      "page": 14,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Conscience",
+      "page": 14,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Consequences",
+      "page": 14,
+      "scripture": [
+        "“As I have observed, those who plough evil and those who sow trouble reap it.” (Job 4:8 NIV)",
+        "“Do not be deceived: God cannot be mocked. A man reaps what he sows.” (Galatians 6:7 NIV)"
+      ],
+      "notes": []
+    },
+    {
+      "name": "Contribution",
+      "page": 16,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Control",
+      "page": 16,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Conversation",
+      "page": 16,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Courage",
+      "page": 17,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Cowardice",
+      "page": 17,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Credibility",
+      "page": 17,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Curiosity",
+      "page": 17,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Day of Rest",
+      "page": 17,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Death",
+      "page": 17,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Debt",
+      "page": 18,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Deception",
+      "page": 18,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Decisions",
+      "page": 19,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Dependence",
+      "page": 19,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Deprivation",
+      "page": 19,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Desires",
+      "page": 19,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Destiny",
+      "page": 20,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Destroy",
+      "page": 20,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Difficulties",
+      "page": 21,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Dignity",
+      "page": 21,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Discernment",
+      "page": 21,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Discretion",
+      "page": 21,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Disputes",
+      "page": 22,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Downfall",
+      "page": 22,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Dress",
+      "page": 22,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Ease",
+      "page": 22,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Elders",
+      "page": 23,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Youth",
+      "page": 24,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Encouragement",
+      "page": 25,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Environment",
+      "page": 25,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Envy",
+      "page": 25,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Evidence",
+      "page": 25,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Evil",
+      "page": 25,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Evil tongue",
+      "page": 26,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Excess",
+      "page": 26,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Failure",
+      "page": 26,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Fame",
+      "page": 26,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Family",
+      "page": 26,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Family discipline",
+      "page": 29,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Family firstborn",
+      "page": 30,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Family marriage",
+      "page": 30,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Family women",
+      "page": 31,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Fathers",
+      "page": 32,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Men",
+      "page": 32,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Women",
+      "page": 32,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Faults",
+      "page": 33,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Favouritism",
+      "page": 33,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Fear",
+      "page": 33,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Finish",
+      "page": 33,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Fire",
+      "page": 34,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "First",
+      "page": 34,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Food",
+      "page": 34,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Fool",
+      "page": 34,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Foolhardiness",
+      "page": 35,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Friendship",
+      "page": 35,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Fruitfulness",
+      "page": 35,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Future",
+      "page": 35,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "General",
+      "page": 36,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Generosity",
+      "page": 39,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Giving",
+      "page": 40,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Goals",
+      "page": 40,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "God",
+      "page": 40,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Good deeds",
+      "page": 43,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Gratitude",
+      "page": 43,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Greed",
+      "page": 44,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Guest",
+      "page": 44,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Habits",
+      "page": 44,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Heart",
+      "page": 44,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Help",
+      "page": 45,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Hidden",
+      "page": 45,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Honour",
+      "page": 46,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Hospitality",
+      "page": 46,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Human Condition",
+      "page": 46,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Idiom",
+      "page": 46,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Ignorance",
+      "page": 47,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Illicit",
+      "page": 47,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Impatience",
+      "page": 48,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Impotence",
+      "page": 48,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Inevitability",
+      "page": 48,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Influence of Others",
+      "page": 49,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Injustice",
+      "page": 49,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Insolence",
+      "page": 49,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Insults",
+      "page": 49,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Integrity",
+      "page": 50,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Interest",
+      "page": 51,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Intolerance",
+      "page": 51,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "King",
+      "page": 51,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Knowledge",
+      "page": 52,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Leadership",
+      "page": 53,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Learning",
+      "page": 54,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Life",
+      "page": 54,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Limitations",
+      "page": 57,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Listen",
+      "page": 58,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Loans",
+      "page": 58,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Love",
+      "page": 59,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Luck",
+      "page": 59,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Making Do",
+      "page": 60,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Manipulation",
+      "page": 60,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Marabouts",
+      "page": 60,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Maures",
+      "page": 60,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Means",
+      "page": 61,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Mercy",
+      "page": 61,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Merit",
+      "page": 61,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Miserliness",
+      "page": 61,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Misfortune",
+      "page": 61,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Mistakes",
+      "page": 62,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Mocking",
+      "page": 62,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Modesty",
+      "page": 62,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Naivety",
+      "page": 62,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Name",
+      "page": 63,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Nature",
+      "page": 63,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Need",
+      "page": 63,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Neglect",
+      "page": 64,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "News",
+      "page": 64,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Nostalgia",
+      "page": 64,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Obviousness",
+      "page": 64,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Opinion",
+      "page": 64,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Opportunity",
+      "page": 65,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Organisation",
+      "page": 65,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Patience",
+      "page": 65,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Peace",
+      "page": 66,
+      "scripture": [
+        "Peace I leave with you; my peace I give you. I do not give to you as the world gives. Do not let your hearts be troubled and do not be afraid. (John 14:27 NIV)",
+        "You will keep in perfect peace him whose mind is steadfast, because he trusts in you. (Isaiah 26:3 NIV)",
+        "Great peace have they who love your law, and nothing can make them stumble. (Psalms 119:165 NIV)",
+        "Turn from evil and do good; seek peace and pursue it. (Psalms 34:14 NIV)",
+        "\"There is no peace,\" says the LORD, \"for the wicked.\" (Isaiah 48:22 NIV)"
+      ],
+      "notes": []
+    },
+    {
+      "name": "Peers",
+      "page": 67,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Perseverance",
+      "page": 67,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Pessimism",
+      "page": 67,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Pleasure",
+      "page": 67,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Politeness",
+      "page": 68,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Poverty",
+      "page": 68,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Preparation",
+      "page": 68,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Pretext",
+      "page": 69,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Prevention",
+      "page": 69,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Pride",
+      "page": 70,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Privilege",
+      "page": 70,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Problem Solving",
+      "page": 70,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Profiteering",
+      "page": 70,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Proof",
+      "page": 70,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Prostitutes",
+      "page": 71,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Protection",
+      "page": 71,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Provision",
+      "page": 71,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Provocation",
+      "page": 71,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Proximity",
+      "page": 72,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Prudence",
+      "page": 72,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Rejection",
+      "page": 76,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Relationships",
+      "page": 76,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Repentance",
+      "page": 79,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Responsibility",
+      "page": 80,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Restitution",
+      "page": 80,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Righteousness",
+      "page": 80,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Rights",
+      "page": 80,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Risk",
+      "page": 81,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Ruin",
+      "page": 82,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Rumours",
+      "page": 82,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Satisfaction",
+      "page": 82,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Self-control",
+      "page": 82,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Self-evaluation",
+      "page": 83,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Self reliance",
+      "page": 83,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Shame",
+      "page": 83,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Sharing",
+      "page": 83,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Sleep",
+      "page": 84,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Slyness",
+      "page": 84,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Small things",
+      "page": 84,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Society",
+      "page": 84,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Solutions",
+      "page": 85,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Spirits",
+      "page": 85,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Status",
+      "page": 85,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Stranger",
+      "page": 85,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Success",
+      "page": 86,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Suffering",
+      "page": 86,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Superiority",
+      "page": 86,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Surprise",
+      "page": 87,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Tact",
+      "page": 87,
+      "scripture": [],
+      "notes": [
+        "“Tact is ability to see others as they wish to be seen.”"
+      ]
+    },
+    {
+      "name": "Talk",
+      "page": 87,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Taste",
+      "page": 90,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Teachers",
+      "page": 90,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Thoughts",
+      "page": 90,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Time",
+      "page": 91,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Traditional Values",
+      "page": 91,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Travel",
+      "page": 91,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Treasures",
+      "page": 92,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Trust",
+      "page": 93,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Truth",
+      "page": 93,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Usefulness",
+      "page": 96,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Victory",
+      "page": 96,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Waste",
+      "page": 96,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Wisdom",
+      "page": 96,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "Work",
+      "page": 96,
+      "scripture": [],
+      "notes": []
+    },
+    {
+      "name": "World",
+      "page": 98,
+      "scripture": [],
+      "notes": []
+    }
+  ],
+  "bibliography": [
+    {
+      "id": 1,
+      "text": "BOILLAT 1858 Grammaire de la Langue Woloffe"
+    },
+    {
+      "id": 2,
+      "text": "CISSE, Mame Thierno; GUEYE, Mamadou; TOURE, Mangone 1982 Proverbes Wolof (Centre de Linguistique Appliquée de Dakar (CLAD), Dakar)"
+    },
+    {
+      "id": 3,
+      "text": "CRIBIER, Jacqueline; DREYFUS, Martine; GUEYE, Mamadou 1986 Léebu proverbes wolof (Conseil International de la Langue Française, Paris) Collection of Wolof proverbs with an explanation of how the proverbs are used."
+    },
+    {
+      "id": 4,
+      "text": "DARD, J 1826 Grammaire Wolofe Reproduced with English translation in BURTON, Richard 1865 Wit and Wisdom from West Africa"
+    },
+    {
+      "id": 5,
+      "text": "DIAL, Abdoulaye 2002 Apprentissage rapide de la transcription du Wolof (wolof-français) 2nd Edition (Saint Louis)"
+    },
+    {
+      "id": 6,
+      "text": "DIOUF, Jean Leopold 2003 Dictionnaire Wolof-Français et Français-Wolof (Karthala, Paris) The most comprehensive of the Wolof-French dictionaries to date with over 10,000 words in the Wolof-French section and 4,600 words in the French-Wolof section."
+    },
+    {
+      "id": 7,
+      "text": "FAAL, Aram 2000 Mbindum baat yi ci làmmiñu wolof Dictionnaire orthographique de la langue wolof illustré de proverbes (OSAD, Dakar)"
+    },
+    {
+      "id": 8,
+      "text": "GAMBLE, David P, Wolof Proverbs"
+    },
+    {
+      "id": 9,
+      "text": "JUUF, Liisa Samba 1998 Léebu Wolof ak Séeni tekkin ànd aki Tàggat ci Biir (PAPA, Dakar) Wolof proverbs"
+    },
+    {
+      "id": 10,
+      "text": "KAN, Buubakar; FAAL, Aram; NJAAY, Mamadu 1993 Njàngum Wolof (Organisation Sénégalaise d'Appui au Développement [OSAD], Dakar) Student book for literacy lessons."
+    },
+    {
+      "id": 11,
+      "text": "KANJI, Sëriñ Lamin Baara 2004 Ndaamakocc (PAPA II, Dakar) Explanation of game with Wolof proverbs explained in Wolof 3rd edition"
+    },
+    {
+      "id": 12,
+      "text": "KANJI, Sëriñ Lamin Baara 1986 Ndamakocc (Ministere de la Femme, de l'Enfant et de la Famille, Dakar) Explanation of game with Wolof proverbs 1st edition"
+    },
+    {
+      "id": 13,
+      "text": "KOBES Proverbes et énigmes wolof cités dans le Dictionnaire volof-français de Mgr Kobès et du R.P. Abiven Collected by BECKER, Charles; MARTIN, Victor; MBODJ, Mohamed"
+    },
+    {
+      "id": 14,
+      "text": "NJAAY, Manel Léebu ci Kallaama wolof (Projet Alphabétisation Priorité Femmes [PAPF]) Wolof proverbs"
+    },
+    {
+      "id": 15,
+      "text": "SYLLA, Assane 1994 La Philosophie Morale des Wolof (Institut Fondamental d'Afrique Noire [IFAN], Dakar) Excellent treatise on the world view of the Wolof. Also an excellent source of Wolof proverbs, which the author uses to analyse Wolof thinking. Highly recommended for all workers in Senegal."
+    },
+    {
+      "id": 16,
+      "text": "SYLLA, Assane Ijjib Wolof (Projet Alphabétisation Priorité Femmes [PAPF]) Literacy book"
+    },
+    {
+      "id": 17,
+      "text": "SAAR, Xaalima 1998 Téereb Dawal (PAPA, Thies) Advanced literacy reader"
+    },
+    {
+      "id": 18,
+      "text": "TINE, Alphonse Samba Proverbes nones et wolof du Càngin et du Kayoor Miroir du langage populaire Tome I (ENDA GRAF SAHEL)"
+    },
+    {
+      "id": 19,
+      "text": "WÀDD, Maam Daawur 2004 Léebuy Wolof Collection of Wolof proverbs"
+    },
+    {
+      "id": 20,
+      "text": "Miscellaneous sources my notes DIOP, Abdoulaye-Bara 1985 La Famille Wolof (Editions Karthala, Paris) Yoonu Njub GAYE, Pape Amadou Practical Course in Wolof - An Audio-Aural Approach (United States Peace Corps, Lome) JOOB, Lamin 1998 Gis-gis ci Kocc Barma Faal (PAPA) LY, Boubakar 1966 L'Honneur et les Valeurs Morales dans les Sociétés Ouolof et Toucouleur du Sénégal (Université de Paris) SAMB, El-Hadj Amadou Ndiaye Sagesse Africaine - Proverbes Wolof http://www.osad-sn.com/proverbes.php (Araam Fal) http://www.ausenegal.com/-Proverbes-wolof-.html http://lesenegalais.jeun.fr/apprendre-le-wolof-f7/vos-proverbes-en-wolof-t502.htm http://linguaromana.byu.edu/Sow-Fall4.html"
+    }
+  ],
+  "additionalBibliography": [
+    "DIAGNE Mamoussé 2005 Critique de la raison orale: les pratiques discursives en Afrique noire (Karthala, Paris)",
+    "MARANZ David 1993 Peace is Everything : Worldview of Muslims in the Senegambia (SIL, Dallas)"
+  ],
+  "foreword": "Foreword\nThe Wolof love proverbs. The wisdom of generations of Wolof sages is recorded in thousands of\nproverbs and sayings. And the Wolof sages can teach us much in this day and age, especially in an area\nwhich has become a weakness of Western societies - community and relationships. We would save\nourselves a lot of pain and shame if we listened to the wisdom of the Wolof.\nThis first edition was quickly organised into topics, and it can be improved. I invite you, the reader, to\nsuggest improvements to the classification system - better titles, or perhaps combining several similar\ntopics together, or including particular proverbs under different topics.\nFor those who speak Wolof, proverbs are an excellent tool – both for teaching and for resolving problems\nin relationships. As oral communicators the average Wolof person can remember a message contained in\na proverb and take it home with him, when he could never remember the main points of a lesson. A\nWolof person will listen to the advice contained in a proverb when he would never listen to the same\nthings said to him directly.\nThis work is hardly original. Rather it is a compilation of the collections found in the bibliography at the\nend of the book. I am particularly grateful to Maam Daoud Wade who translated about 100 of the\nproverbs in this collection. Thanks also to those who helped with proofreading and offered suggestions\nfor improvement including John Bardsley, Galen Currah, Graham Keen, and Jeanette Lee.\nI hope to enlarge the number of proverbs in future editions, as well as incorporate your suggestions for\nimprovement.\nFor each proverb, the main proverb and any alternative versions are in Times New Roman italics, a literal\ntranslation follows in Arial font, followed by explanatory notes. Where possible approximately equivalent\nEnglish proverbs are supplied in blue text. Scattered throughout the book are quotes from the Holy\nScriptures in the Lucinda Calligraphy font.\nAll biblical verses are taken from the New International Version © 1973, 1978, 1984 by the International\nBible Society, used by permission of Zondervan Bible Publishers.\nRichard Shawyer (dit Musaa Sarr)\nAugust 2009\nshawyer.richard@gmail.com",
+  "scriptureAttribution": "All biblical verses are taken from the New International Version © 1973, 1978, 1984 by the International Bible Society, used by permission of Zondervan Bible Publishers.",
+  "extraction": {
+    "method": "PDF text, position, font, and colour extraction with pdfplumber; no OCR or spelling normalisation.",
+    "pageNumbering": "Physical PDF page numbers match printed page numbers for all proverb pages (3–98).",
+    "fieldNotes": {
+      "id": "Original numbered proverb; stable and continuous 1–743.",
+      "page": "First physical PDF page containing the proverb.",
+      "pageEnd": "Final PDF page containing its source text or shared commentary.",
+      "sourceRefs": "Union of numeric bibliography references for the main text and variants.",
+      "mainSourceRefs": "References printed immediately after the main Wolof text.",
+      "variantSourceRefs": "References by corresponding variant array position.",
+      "sharedWith": "Other numbered proverbs presented together with shared commentary in the source.",
+      "transcriptionNotes": "Encoding cautions and documented extraction decisions."
+    },
+    "preservation": "Original wording, capitalization, punctuation and diacritics retained; PDF visual line wrapping collapsed into spaces. Lettered a./b./c. sense labels retained. Source group commentary duplicated for each relevant proverb with sharedWith links.",
+    "legacyFontMapping": {
+      "font": "DABLOM+WPMultinationalARoman",
+      "extracted": "õ",
+      "printed": "ŋ",
+      "count": 12,
+      "affectedIds": [
+        18,
+        152,
+        201,
+        334,
+        391,
+        635,
+        688,
+        689
+      ],
+      "verification": "The printed glyph was visually verified in raster renderings of source PDF pages 5 and 84. Only this font-specific encoding was repaired; source spelling was not modernised or corrected."
+    }
+  }
+}
