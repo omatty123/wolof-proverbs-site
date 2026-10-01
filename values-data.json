@@ -1,13 +1,13 @@
 {
-  "version": 1,
+  "version": 2,
   "values": [
     {
       "id": "sutura",
       "term": "Sutura",
-      "label": "Kindness and privacy",
-      "meaning": "Be careful with other people's private stories and help without embarrassing them. If someone is being hurt or feels unsafe, tell a trusted adult.",
+      "label": "Discretion and dignity",
+      "meaning": "Respect other people's private stories and help without embarrassing them. If someone is being hurt or feels unsafe, tell a trusted adult.",
       "example": "A friend spills something: help clean it up without turning their mistake into a joke for everyone.",
-      "prompt": "How can you help someone while protecting their feelings?",
+      "prompt": "When is it kind to keep something private, and when should you ask a trusted adult for help?",
       "adultNote": "Sutura includes discretion and protecting another person's dignity. This child-facing lesson explicitly protects a child's right to tell a trusted adult about harm; privacy must never become enforced secrecy.",
       "variants": [
         "soutoura"
@@ -22,38 +22,24 @@
           "title": "Niane & Sow: Apport de l'arabe sur les langues nationales du Sénégal (UCAD), pp. 63–64"
         }
       ],
-      "bubbleLabel": "Care & privacy",
+      "bubbleLabel": "Discretion & dignity",
       "proverbs": [
         {
           "id": 675,
-          "childReading": "Respect other people’s privacy. Their personal stories are not always yours to share.",
-          "connection": "The source connects peace with not repeating everything one knows about other people.",
-          "prompt": "Ask before sharing someone else’s personal story. If someone is hurt, scared or unsafe, tell a trusted grown-up.",
+          "role": "primary",
+          "connection": "The book links peace with not repeating everything one knows about others. We connect that discretion to sutura; the saying itself names jàmm, not sutura.",
+          "prompt": "What is an example of respecting someone’s privacy? If someone is hurt, scared or unsafe, tell a trusted adult.",
           "sourcePage": 89
-        },
-        {
-          "id": 669,
-          "childReading": "Kind words can be a gift.",
-          "connection": "The source compares good words to a generous offering; this supports protecting another person’s dignity.",
-          "prompt": "Think of one kind, true thing you can say to someone today.",
-          "sourcePage": 89
-        },
-        {
-          "id": 677,
-          "childReading": "When you know about a problem, speak up so someone can help.",
-          "connection": "The source says warning someone about a problem is better than knowing and saying nothing. It gives an essential boundary to discretion.",
-          "prompt": "Who is a trusted grown-up you could tell if something worried you?",
-          "sourcePage": 90
         }
       ]
     },
     {
       "id": "yar",
       "term": "Yar",
-      "label": "Learn good ways",
-      "meaning": "Grow good habits by learning from caring people around you. Practise listening, greeting others, helping, and asking thoughtful questions.",
+      "label": "Upbringing and conduct",
+      "meaning": "Learn how to treat people well through the guidance and example of those who care for you. Practise courtesy in what you say and do.",
       "example": "An older relative shows you how to greet a visitor; you practise, then help a younger child learn too.",
-      "prompt": "What good habit could you learn from someone today?",
+      "prompt": "What does a caring person teach you about how to treat others?",
       "adultNote": "Yar concerns upbringing and education in conduct, beyond classroom learning. These activities use guidance and example, with room for questions and boundaries; historical descriptions of punishment are not instructions for children or carers.",
       "sources": [
         {
@@ -65,35 +51,28 @@
           "title": "Ndoye & Diouf: Integrating traditional values in education (Éthiopiques, excerpted by WATHI)"
         }
       ],
-      "bubbleLabel": "Good habits",
+      "bubbleLabel": "Upbringing & conduct",
       "proverbs": [
         {
+          "id": 654,
+          "role": "primary",
+          "connection": "The saying names yar alongside teggin, translated here as politeness and courtesy. It gives a direct example of cultivated conduct, the aspect of yar explored in this lesson.",
+          "prompt": "How can you ask for something courteously? What can you do if the answer is still no?",
+          "sourcePage": 87
+        },
+        {
           "id": 521,
-          "childReading": "Good manners help us treat one another with respect.",
-          "connection": "The proverb explicitly uses yaru and the source explains that politeness brings respect.",
-          "prompt": "How could you greet someone, ask for a turn or say thank you?",
+          "role": "related",
+          "connection": "The book says politeness brings respect, and the saying uses yaru. We pair it with the first saying to discuss how upbringing can show in a person’s conduct.",
+          "prompt": "Why might people choose a courteous person to represent them?",
           "sourcePage": 68
-        },
-        {
-          "id": 407,
-          "childReading": "Asking questions helps us learn.",
-          "connection": "The source directly connects questioning with knowledge.",
-          "prompt": "Ask a grown-up to teach you one Wolof word. Then try using it.",
-          "sourcePage": 52
-        },
-        {
-          "id": 418,
-          "childReading": "You can always learn something new.",
-          "connection": "The source says it is never too late to study or learn.",
-          "prompt": "What would you like to learn? What is one small way to begin?",
-          "sourcePage": 54
         }
       ]
     },
     {
       "id": "teraanga",
       "term": "Teraanga",
-      "label": "Welcome and share",
+      "label": "Hospitality and welcome",
       "meaning": "Help a guest or a newcomer feel welcome and included. Offer your attention, kindness, and what you can share.",
       "example": "A new child arrives at school: greet them, show them where to sit, and invite them into your game.",
       "prompt": "What could make someone new feel at home?",
@@ -112,27 +91,20 @@
           "title": "Alione Sow: La notion de culture en Wolof (INST)"
         }
       ],
-      "bubbleLabel": "Welcome & share",
+      "bubbleLabel": "Hospitality & welcome",
       "proverbs": [
         {
           "id": 350,
-          "childReading": "Making someone feel welcome matters.",
-          "connection": "The proverb names teraanga and affirms the importance of hospitality.",
-          "prompt": "Someone is new to your group. What could you say to welcome them?",
+          "role": "primary",
+          "connection": "The saying names teraanga, translated in the book as hospitality. It affirms that hospitality matters; it does not attempt a full definition.",
+          "prompt": "What could you do to make a guest feel welcome?",
           "sourcePage": 46
         },
         {
-          "id": 290,
-          "childReading": "Be ready to give as well as receive.",
-          "connection": "The source asks us not to keep our hands open for receiving but closed for giving.",
-          "prompt": "What could you share today: a pencil, your time or a turn?",
-          "sourcePage": 39
-        },
-        {
           "id": 98,
-          "childReading": "Make room for everyone in the conversation.",
-          "connection": "The source compares conversation to a shared meal and says everyone present has a right to take part.",
-          "prompt": "At your next group conversation, invite someone who has not had a turn to speak.",
+          "role": "related",
+          "connection": "In the book’s example, a visiting friend is invited into a family conversation. We connect that welcome to teraanga; the saying itself concerns participation in conversation.",
+          "prompt": "How could you include a visitor in a conversation without putting them on the spot?",
           "sourcePage": 16
         }
       ]
@@ -140,11 +112,11 @@
     {
       "id": "jom",
       "term": "Jom",
-      "label": "Respect yourself",
-      "meaning": "Value yourself and take care with what you do. Try your best, admit mistakes, and make things right.",
-      "example": "You knock over a friend's work: say what happened and help rebuild it, even when admitting it feels hard.",
-      "prompt": "What is something you can do today that you will feel proud of?",
-      "adultNote": "Jom can encompass self-respect, honour, resolve, and responsibility. This lesson is for every child; worth does not depend on winning, gender, wealth, or hiding a need for help.",
+      "label": "Honour and dignity",
+      "meaning": "Carry yourself with dignity and act in ways you can respect. You can stand up for yourself without humiliating someone else.",
+      "example": "Others urge you to join in mocking someone. You refuse and say clearly that you will not insult them.",
+      "prompt": "How can you stand up for yourself while keeping your dignity?",
+      "adultNote": "Jom can encompass honour, dignity, self-respect and resolve. This selection names jom directly and distinguishes insulting someone from courage. The activity is an editorial application, not a complete definition; a child can seek help without losing dignity.",
       "sources": [
         {
           "url": "https://www.bu.edu/africa/files/2012/10/Wolof-7-GLOSSARY.pdf#page=2",
@@ -155,27 +127,13 @@
           "title": "Niane & Sow: Apport de l'arabe sur les langues nationales du Sénégal (UCAD), pp. 63–64"
         }
       ],
-      "bubbleLabel": "Self-respect",
+      "bubbleLabel": "Honour & dignity",
       "proverbs": [
         {
-          "id": 514,
-          "childReading": "Keep trying when a good task becomes difficult.",
-          "connection": "The source explicitly urges perseverance instead of abandoning a project because of difficulties.",
-          "prompt": "Name a task that feels hard. What is one small next step? You can ask for help.",
-          "sourcePage": 67
-        },
-        {
-          "id": 1,
-          "childReading": "Show what you can do by taking a step and trying.",
-          "connection": "The proverb contrasts saying “I can do it” with actually doing it.",
-          "prompt": "Choose one helpful thing you can do today, then have a go.",
-          "sourcePage": 3
-        },
-        {
-          "id": 389,
-          "childReading": "Be honest and take care of what is trusted to you, even when no one is watching.",
-          "connection": "The source explicitly connects honesty without supervision with caring for what has been entrusted to us.",
-          "prompt": "You find a pencil that is not yours. How can you help it get back to its owner?",
+          "id": 382,
+          "role": "primary",
+          "connection": "The saying names jom and contrasts insulting someone with honour. We use that contrast to discuss dignity in how we treat other people.",
+          "prompt": "If someone insults you, how can you stand up for yourself without insulting them?",
           "sourcePage": 50
         }
       ]
@@ -183,11 +141,11 @@
     {
       "id": "kersa",
       "term": "Kersa",
-      "label": "Thoughtful words and actions",
-      "meaning": "Pause and choose words and actions that show consideration for others. Give people room to speak, and share your own ideas respectfully.",
-      "example": "You disagree during a game: wait for your friend to finish, then explain your idea without insulting them.",
-      "prompt": "How can you disagree while still showing respect?",
-      "adultNote": "Kersa carries meanings of modesty, restraint, and regard for others. This adaptation teaches consideration without making silence, embarrassment, or obedience the measure of a child's goodness.",
+      "label": "Modesty and restraint",
+      "meaning": "Value what you can do without needing to show off or make others look small. Take care with how you speak and act around other people.",
+      "example": "You know the answer to a difficult question. Share it without laughing at someone who is still learning.",
+      "prompt": "How can you be proud of what you know without showing off?",
+      "adultNote": "The sources describe kersa through modesty, restraint and deference. We focus on modesty in the first saying and restraint in the related saying. These are editorial connections: neither names kersa. Modesty does not require a child to hide their abilities or stay silent about harm.",
       "sources": [
         {
           "url": "https://www.inst.at/ausstellung/enzy/kultur/wolof_sow.htm",
@@ -198,36 +156,29 @@
           "title": "Niane & Sow: Apport de l'arabe sur les langues nationales du Sénégal (UCAD), pp. 63–64"
         }
       ],
-      "bubbleLabel": "Consider others",
+      "bubbleLabel": "Modesty & restraint",
       "proverbs": [
         {
+          "id": 481,
+          "role": "primary",
+          "connection": "The book contrasts a ram displaying its power with a steer that remains calm, then explains the image as modesty rather than boasting. We connect this restraint in displaying one’s abilities to kersa; the saying does not name the concept.",
+          "prompt": "What does the calm steer help us notice about showing off? How can you share something you do well without making someone else feel small?",
+          "sourcePage": 62
+        },
+        {
           "id": 449,
-          "childReading": "Listen and understand before you answer.",
-          "connection": "The source directly asks the listener to understand before replying.",
-          "prompt": "Let someone finish speaking. Can you say what you heard before you reply?",
+          "role": "related",
+          "connection": "The book asks the listener to understand before replying. We connect that pause to restraint in speech, one aspect of kersa; this is a related example, not a definition.",
+          "prompt": "Let someone finish speaking. Can you say what you understood before you answer?",
           "sourcePage": 58
-        },
-        {
-          "id": 97,
-          "childReading": "There is room for another person’s voice.",
-          "connection": "The source uses room for salt in a cooking pot to explain that everyone present may participate in a conversation.",
-          "prompt": "How could you make room for a quiet friend’s idea?",
-          "sourcePage": 16
-        },
-        {
-          "id": 667,
-          "childReading": "Pause and think before you speak.",
-          "connection": "The source warns that speaking without thinking leads to mistakes.",
-          "prompt": "Before you speak, ask yourself: is it true, and can I say it kindly?",
-          "sourcePage": 89
         }
       ]
     },
     {
       "id": "mun",
       "term": "Muñ",
-      "label": "Patience and effort",
-      "meaning": "The things we learn can take time. Take a breath, keep practising, and ask for help when you need it.",
+      "label": "Patience and perseverance",
+      "meaning": "Be patient with things that take time, and keep going with care. Patience can include resting, trying a small step or asking for help.",
       "example": "A knot will not come undone: slow down, try another way, or ask someone to show you.",
       "prompt": "What helps you keep going when learning feels difficult?",
       "adultNote": "Muñ means to be patient, persevere, or endure. Patience can include resting and getting help; children need not tolerate pain or mistreatment.",
@@ -241,27 +192,20 @@
           "title": "Boston University: Wolof Proverbs 3 glossary, Muñ"
         }
       ],
-      "bubbleLabel": "Keep trying",
+      "bubbleLabel": "Patience & perseverance",
       "proverbs": [
         {
           "id": 504,
-          "childReading": "Be patient: something good may come with time.",
-          "connection": "The source directly connects patience with smiling. “May” avoids promising that every wait ends well.",
-          "prompt": "What helps you wait for your turn without rushing someone else?",
-          "sourcePage": 66
-        },
-        {
-          "id": 505,
-          "childReading": "Some things take time. Give them a chance.",
-          "connection": "The image of waiting at a well for a bucket illustrates patience.",
-          "prompt": "Think of a seed growing. What can you do while you wait?",
+          "role": "primary",
+          "connection": "The saying names muñ (patience) and pairs it with muuñ (smiling). The book’s explanation praises waiting; we use it to introduce patience, not to promise that every wait ends happily.",
+          "prompt": "What helps you stay patient while you wait for your turn?",
           "sourcePage": 66
         },
         {
           "id": 507,
-          "childReading": "Small steps can help us do big things.",
-          "connection": "The source explicitly explains that big tasks can be achieved through little steps.",
-          "prompt": "Break a big job into three small steps. Which one can you do first?",
+          "role": "related",
+          "connection": "The book explains the monkey image through small steps that achieve a large task. We connect that gradual effort to perseverance within muñ; the saying itself does not use muñ.",
+          "prompt": "What is one small step toward something you are learning?",
           "sourcePage": 66
         }
       ]
@@ -269,11 +213,11 @@
     {
       "id": "kollere",
       "term": "Kóllëre",
-      "label": "Loyalty and trust",
-      "meaning": "Build trust by caring for your friendships and keeping the promises you can keep. Remember and appreciate the people who help you.",
-      "example": "A friend lends you a book: take care of it, return it when you agreed, and thank them.",
-      "prompt": "What small promise could you make and keep?",
-      "adultNote": "The term includes gratitude, loyalty, and trust in relationships. Loyalty allows honest disagreement and asking for help; no promise requires a child to conceal harm.",
+      "label": "Lasting gratitude and loyalty",
+      "meaning": "Remember the people who have helped you, even long afterward, and care for the trust in those relationships.",
+      "example": "A friend helped you learn a game. Weeks later, you still remember their kindness and include them when you play.",
+      "prompt": "Who helped you some time ago, and how could you show that you still remember?",
+      "adultNote": "Kóllëre includes gratitude, loyalty and trust in relationships. These two selections focus on gratitude that lasts, rather than defining the whole concept. Neither names kóllëre. Remembering help does not oblige a child to accept mistreatment or conceal harm.",
       "variants": [
         "kóllëré",
         "kólléré",
@@ -285,36 +229,29 @@
           "title": "Boston University: Wolof Proverbs 6 glossary, Kóllëré"
         }
       ],
-      "bubbleLabel": "Trust & loyalty",
+      "bubbleLabel": "Gratitude & loyalty",
       "proverbs": [
         {
-          "id": 389,
-          "childReading": "Care for what someone has trusted you with, even when they are not there.",
-          "connection": "The source links honesty with managing well what has been entrusted to us; this supports reliability in relationships.",
-          "prompt": "If you borrow a toy, how can you take care of it and return it?",
-          "sourcePage": 50
-        },
-        {
           "id": 328,
-          "childReading": "Remember to thank the people who helped you.",
-          "connection": "The source explains that when we enjoy something, we should thank the person who made it possible.",
-          "prompt": "Who helped you today? Tell them what you appreciated.",
+          "role": "primary",
+          "connection": "The book explains that we should thank the person who made a benefit possible. We connect that acknowledgement of help to the gratitude within kóllëre; the saying does not name kóllëre.",
+          "prompt": "Who helped make something good possible for you? How could you acknowledge their help?",
           "sourcePage": 43
         },
         {
-          "id": 383,
-          "childReading": "Let honesty guide you.",
-          "connection": "The source names honesty as a person’s best protection; this supports trustworthy relationships.",
-          "prompt": "If you make a mistake, how could you tell the truth and help put it right?",
-          "sourcePage": 50
+          "id": 327,
+          "role": "related",
+          "connection": "The book uses this saying to rebuke forgetting old favours. It is a warning against ingratitude, not advice to forget; we connect remembering past help to lasting kóllëre.",
+          "prompt": "Why might someone forget an old kindness? What would help you remember it?",
+          "sourcePage": 43
         }
       ]
     },
     {
       "id": "jamm",
       "term": "Jàmm",
-      "label": "Make peace",
-      "meaning": "Help people live and play peacefully together. Listen during disagreements and look for a fair way forward.",
+      "label": "Peace",
+      "meaning": "Value peace: a way of living together where people can feel at ease. In a disagreement, look for a fair way to end the conflict.",
       "example": "Two children want the same toy: ask what each needs and help them agree on taking turns.",
       "prompt": "What could help everyone feel heard in a disagreement?",
       "adultNote": "Jàmm means peace and appears in everyday greetings. Peace includes safety and fairness; children can seek adult help with bullying or conflict.",
@@ -327,28 +264,21 @@
           "title": "Boston University: Wolof Proverbs 7 glossary, Jàmm"
         }
       ],
-      "bubbleLabel": "Make peace",
+      "bubbleLabel": "Peace",
       "proverbs": [
         {
           "id": 510,
-          "childReading": "Peace makes room for everyone.",
-          "connection": "The source describes peace as a place where all people can be at ease.",
-          "prompt": "What could make your classroom or home feel peaceful for everyone?",
+          "role": "primary",
+          "connection": "The saying names jàmm, and the book explains peace as a place where everyone can be at ease. That is the aspect of peace this lesson explores.",
+          "prompt": "What would help everyone feel at ease in your group?",
           "sourcePage": 66
         },
         {
-          "id": 42,
-          "childReading": "We can do more when we work together.",
-          "connection": "The source uses one hand being unable to clap to explain cooperation toward a shared goal.",
-          "prompt": "Choose a small job to do together. How will you share the work?",
-          "sourcePage": 9
-        },
-        {
-          "id": 601,
-          "childReading": "Talking and listening can help clear up a misunderstanding.",
-          "connection": "The source connects misunderstanding with a lack of discussion. The child version avoids claiming conversation solves every conflict.",
-          "prompt": "If two friends disagree, what could each say to explain what happened?",
-          "sourcePage": 79
+          "id": 509,
+          "role": "related",
+          "connection": "The saying again names jàmm. The book connects the path image with finding a simple solution that ends a crisis; we use it to discuss ways toward peace.",
+          "prompt": "Think of a small disagreement. What simple, fair step could help settle it?",
+          "sourcePage": 66
         }
       ]
     }
