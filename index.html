@@ -12,9 +12,20 @@
 <body>
 <a class="skip-link" href="#main">Skip to content</a>
 <div class="senegal-stripe" aria-hidden="true"><i></i><i></i><i></i></div>
-<header class="site-header"><a class="brand" href="#browse"><span class="brand-mark" aria-hidden="true"><img src="images/senegal-flag.svg" width="36" height="24" alt=""></span><span>Wolof Proverbs</span></a><nav aria-label="Main"><a href="#browse" aria-current="page">Collection</a><a href="#values">Values</a><a href="#practice">Practice</a><a href="#source">About this text</a></nav></header>
+<header class="site-header"><a class="brand" href="#home"><span class="brand-mark" aria-hidden="true"><img src="images/senegal-flag.svg" width="36" height="24" alt=""></span><span>Wolof Proverbs</span></a><nav aria-label="Main"><a href="#browse" aria-current="page">Collection</a><a href="#values">Values</a><a href="#practice">Practice</a><a href="#source">About this text</a></nav></header>
 <main id="main" tabindex="-1">
-<section id="browse" aria-labelledby="collection-heading">
+<section id="home" aria-labelledby="home-heading">
+<div class="home-layout"><div class="home-intro"><h1 id="home-heading">Wolof proverbs from Senegal</h1><p>Here are 743 sayings in Wolof and English, with the explanations from Richard Shawyer’s <cite>Wisdom of the Wolof Sages</cite> (2009). You can search them, hear some of them spoken, look up their words, and practise what they mean.</p></div>
+<div id="home-featured" class="home-featured" aria-labelledby="featured-heading"><h2 id="featured-heading">Today’s proverb</h2><p class="study-hint">Loading…</p></div>
+<div class="home-nav"><form id="home-search-form" role="search"><label class="sr-only" for="home-search">Search the collection</label><div class="search-row"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.7" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 4 4"/></svg><input id="home-search" type="search" placeholder="Search words or number" autocomplete="off"><button type="submit">Search</button></div></form>
+<ul class="home-sections">
+<li><a href="#browse">Collection</a><p>All 743 proverbs by topic, with their meanings, word notes and recordings.</p></li>
+<li><a href="#values">Values</a><p>Eight Wolof values, each with a proverb: <span lang="wo">Sutura, Yar, Teraanga, Jom, Kersa, Muñ, Kóllëre</span> and <span lang="wo">Jàmm</span>.</p></li>
+<li><a href="#practice">Practice</a><p>Read a proverb in Wolof and choose its English translation, ten at a time.</p></li>
+<li><a href="#source">About this text</a><p>The book, the people who made it, and the sources behind this site.</p></li>
+</ul></div></div>
+</section>
+<section id="browse" hidden aria-labelledby="collection-heading">
 <div class="collection-top"><div class="collection-intro"><h1 id="collection-heading">743 proverbs</h1><p>Wolof &amp; English · Senegal</p></div><form id="search-form" role="search"><label class="sr-only" for="search">Search the collection</label><div class="search-row"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.7" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 4 4"/></svg><input id="search" type="search" placeholder="Search words or number" aria-describedby="search-hint" autocomplete="off"><button type="button" id="clear-search" hidden>Clear</button></div><p id="search-hint">Wolof, English and explanations. Accents are optional.</p></form></div>
 <div class="collection-layout">
 <aside class="topics-panel" aria-labelledby="topics-heading"><h2 id="topics-heading">Topics</h2><label class="sr-only" for="topic">Topic</label><select id="topic"><option value="">All topics</option><option>Action</option></select><div id="topic-list" role="toolbar" aria-label="Topic filters; use up and down arrow keys" aria-orientation="vertical"></div><p class="source-aside">From <cite>Wisdom of the Wolof Sages</cite><br>Richard Shawyer · 2009</p></aside>
@@ -27,7 +38,7 @@
 <section id="values" hidden aria-labelledby="values-heading"><div class="section-intro values-intro"><h1 id="values-heading">Senegalese values</h1></div><div id="values-content"><p role="status">Loading the values lessons…</p></div></section>
 <section id="practice" hidden aria-labelledby="practice-heading"><div class="section-intro"><h1 id="practice-heading">Practise the meanings.</h1><p>Read a proverb in Wolof. Choose its English translation.</p></div><div id="quiz" class="quiz-surface"></div></section>
 <section id="source" hidden aria-labelledby="source-heading"><div class="section-intro"><h1 id="source-heading">About this text</h1></div><div id="source-content" class="source-content"></div></section>
-<noscript><p class="noscript">Search and practice need JavaScript. You can read the complete <a href="original.pdf">original PDF</a>.</p></noscript>
+<noscript><style>#browse{display:block!important}</style><p class="noscript">Search and practice need JavaScript. You can read the complete <a href="original.pdf">original PDF</a>.</p></noscript>
 </main><footer><p><cite>Wisdom of the Wolof Sages</cite> · Dr. Richard Shawyer · First edition © 2009</p><a href="original.pdf" target="_blank" rel="noopener">Open original PDF <span class="sr-only">(opens in a new tab)</span></a></footer>
 <script type="module" src="app.js"></script>
 </body></html>
