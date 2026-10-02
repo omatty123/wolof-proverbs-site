@@ -1,5 +1,5 @@
 {
-  "checkedOn": "2026-10-01",
+  "checkedOn": "2026-10-02",
   "lexicon": [
     {
       "term": "am",
@@ -554,6 +554,2122 @@
       "sourceUrl": "https://fr.wiktionary.org/wiki/fee%C3%B1",
       "sourceTitle": "Wiktionnaire contributors — feeñ (Wolof), CC BY-SA 4.0",
       "license": "CC BY-SA 4.0"
+    },
+    {
+      "term": "baay",
+      "meanings": [
+        "father, or one's father's brother"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/baay#Wolof",
+      "sourceTitle": "Wiktionary contributors — baay (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "nekk",
+      "meanings": [
+        "to be in, to be at"
+      ],
+      "partOfSpeech": "verb",
+      "sourceUrl": "https://en.wiktionary.org/wiki/nekk#Wolof",
+      "sourceTitle": "Wiktionary contributors — nekk (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "golo",
+      "meanings": [
+        "monkey"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/golo#Wolof",
+      "sourceTitle": "Wiktionary contributors — golo (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "dëkk",
+      "meanings": [
+        "city, town",
+        "to live in"
+      ],
+      "partOfSpeech": "noun, verb",
+      "sourceUrl": "https://en.wiktionary.org/wiki/d%C3%ABkk#Wolof",
+      "sourceTitle": "Wiktionary contributors — dëkk (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "benn",
+      "meanings": [
+        "one"
+      ],
+      "partOfSpeech": "numeral",
+      "sourceUrl": "https://en.wiktionary.org/wiki/benn#Wolof",
+      "sourceTitle": "Wiktionary contributors — benn (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "jur",
+      "meanings": [
+        "to father; to beget",
+        "to give birth to",
+        "to bear fruit; to produce",
+        "cattle, livestock",
+        "dowry"
+      ],
+      "partOfSpeech": "verb, noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/jur#Wolof",
+      "sourceTitle": "Wiktionary contributors — jur (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "jigéen",
+      "meanings": [
+        "woman, female"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/jig%C3%A9en#Wolof",
+      "sourceTitle": "Wiktionary contributors — jigéen (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "ngor",
+      "meanings": [
+        "honor"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/ngor#Wolof",
+      "sourceTitle": "Wiktionary contributors — ngor (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "tànk",
+      "meanings": [
+        "leg, foot"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/t%C3%A0nk#Wolof",
+      "sourceTitle": "Wiktionary contributors — tànk (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "loxo",
+      "meanings": [
+        "arm, hand"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/loxo#Wolof",
+      "sourceTitle": "Wiktionary contributors — loxo (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "gan",
+      "meanings": [
+        "stranger",
+        "guest"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/gan#Wolof",
+      "sourceTitle": "Wiktionary contributors — gan (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "ñaar",
+      "meanings": [
+        "two"
+      ],
+      "partOfSpeech": "numeral",
+      "sourceUrl": "https://en.wiktionary.org/wiki/%C3%B1aar#Wolof",
+      "sourceTitle": "Wiktionary contributors — ñaar (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "tool",
+      "meanings": [
+        "field",
+        "garden"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/tool#Wolof",
+      "sourceTitle": "Wiktionary contributors — tool (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "xale",
+      "meanings": [
+        "child"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/xale#Wolof",
+      "sourceTitle": "Wiktionary contributors — xale (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "bés",
+      "meanings": [
+        "day"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/b%C3%A9s#Wolof",
+      "sourceTitle": "Wiktionary contributors — bés (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "bokk",
+      "meanings": [
+        "to belong to; to be part of",
+        "to share"
+      ],
+      "partOfSpeech": "verb",
+      "sourceUrl": "https://en.wiktionary.org/wiki/bokk#Wolof",
+      "sourceTitle": "Wiktionary contributors — bokk (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "bey",
+      "meanings": [
+        "to farm"
+      ],
+      "partOfSpeech": "verb",
+      "sourceUrl": "https://en.wiktionary.org/wiki/bey#Wolof",
+      "sourceTitle": "Wiktionary contributors — bey (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "ñett",
+      "meanings": [
+        "three"
+      ],
+      "partOfSpeech": "numeral",
+      "sourceUrl": "https://en.wiktionary.org/wiki/%C3%B1ett#Wolof",
+      "sourceTitle": "Wiktionary contributors — ñett (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "rafet",
+      "meanings": [
+        "pretty"
+      ],
+      "partOfSpeech": "verb",
+      "sourceUrl": "https://en.wiktionary.org/wiki/rafet#Wolof",
+      "sourceTitle": "Wiktionary contributors — rafet (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "fey",
+      "meanings": [
+        "to pay",
+        "to extinguish; to turn off",
+        "to respond to a greeting"
+      ],
+      "partOfSpeech": "verb",
+      "sourceUrl": "https://en.wiktionary.org/wiki/fey#Wolof",
+      "sourceTitle": "Wiktionary contributors — fey (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "ree",
+      "meanings": [
+        "to laugh"
+      ],
+      "partOfSpeech": "verb",
+      "sourceUrl": "https://en.wiktionary.org/wiki/ree#Wolof",
+      "sourceTitle": "Wiktionary contributors — ree (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "bëñ",
+      "meanings": [
+        "tooth"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/b%C3%AB%C3%B1#Wolof",
+      "sourceTitle": "Wiktionary contributors — bëñ (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "juddu",
+      "meanings": [
+        "to be born"
+      ],
+      "partOfSpeech": "verb",
+      "sourceUrl": "https://en.wiktionary.org/wiki/juddu#Wolof",
+      "sourceTitle": "Wiktionary contributors — juddu (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "janax",
+      "meanings": [
+        "mouse, rat"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/janax#Wolof",
+      "sourceTitle": "Wiktionary contributors — janax (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "picc",
+      "meanings": [
+        "bird"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/picc#Wolof",
+      "sourceTitle": "Wiktionary contributors — picc (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "waxtaan",
+      "meanings": [
+        "to have a conversation",
+        "conversation"
+      ],
+      "partOfSpeech": "verb, noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/waxtaan#Wolof",
+      "sourceTitle": "Wiktionary contributors — waxtaan (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "daaw",
+      "meanings": [
+        "last year"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/daaw#Wolof",
+      "sourceTitle": "Wiktionary contributors — daaw (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "nopp",
+      "meanings": [
+        "ear"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/nopp#Wolof",
+      "sourceTitle": "Wiktionary contributors — nopp (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "añ",
+      "meanings": [
+        "lunch",
+        "to have lunch"
+      ],
+      "partOfSpeech": "noun, verb",
+      "sourceUrl": "https://en.wiktionary.org/wiki/a%C3%B1#Wolof",
+      "sourceTitle": "Wiktionary contributors — añ (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "pexe",
+      "meanings": [
+        "strategy"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/pexe#Wolof",
+      "sourceTitle": "Wiktionary contributors — pexe (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "làmmiñ",
+      "meanings": [
+        "tongue"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/l%C3%A0mmi%C3%B1#Wolof",
+      "sourceTitle": "Wiktionary contributors — làmmiñ (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "lal",
+      "meanings": [
+        "bed"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/lal#Wolof",
+      "sourceTitle": "Wiktionary contributors — lal (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "xalam",
+      "meanings": [
+        "to play the xalam",
+        "A Wolof banjo"
+      ],
+      "partOfSpeech": "verb, noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/xalam#Wolof",
+      "sourceTitle": "Wiktionary contributors — xalam (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "saabu",
+      "meanings": [
+        "soap"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/saabu#Wolof",
+      "sourceTitle": "Wiktionary contributors — saabu (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "fukk",
+      "meanings": [
+        "ten"
+      ],
+      "partOfSpeech": "numeral",
+      "sourceUrl": "https://en.wiktionary.org/wiki/fukk#Wolof",
+      "sourceTitle": "Wiktionary contributors — fukk (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "ñàmbi",
+      "meanings": [
+        "cassava, manioc, yuca"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/%C3%B1%C3%A0mbi#Wolof",
+      "sourceTitle": "Wiktionary contributors — ñàmbi (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "maam",
+      "meanings": [
+        "grandparent"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/maam#Wolof",
+      "sourceTitle": "Wiktionary contributors — maam (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "baaraam",
+      "meanings": [
+        "finger"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/baaraam#Wolof",
+      "sourceTitle": "Wiktionary contributors — baaraam (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "jaay",
+      "meanings": [
+        "to sell"
+      ],
+      "partOfSpeech": "verb",
+      "sourceUrl": "https://en.wiktionary.org/wiki/jaay#Wolof",
+      "sourceTitle": "Wiktionary contributors — jaay (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "gémmiñ",
+      "meanings": [
+        "mouth"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/g%C3%A9mmi%C3%B1#Wolof",
+      "sourceTitle": "Wiktionary contributors — gémmiñ (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "sikkim",
+      "meanings": [
+        "beard",
+        "chin"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/sikkim#Wolof",
+      "sourceTitle": "Wiktionary contributors — sikkim (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "xam-xam",
+      "meanings": [
+        "knowledge",
+        "science"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/xam-xam#Wolof",
+      "sourceTitle": "Wiktionary contributors — xam-xam (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "dégg",
+      "meanings": [
+        "to hear",
+        "to understand"
+      ],
+      "partOfSpeech": "verb",
+      "sourceUrl": "https://en.wiktionary.org/wiki/d%C3%A9gg#Wolof",
+      "sourceTitle": "Wiktionary contributors — dégg (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "weex",
+      "meanings": [
+        "white"
+      ],
+      "partOfSpeech": "verb",
+      "sourceUrl": "https://en.wiktionary.org/wiki/weex#Wolof",
+      "sourceTitle": "Wiktionary contributors — weex (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "yàpp",
+      "meanings": [
+        "meat"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/y%C3%A0pp#Wolof",
+      "sourceTitle": "Wiktionary contributors — yàpp (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "cere",
+      "meanings": [
+        "couscous"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/cere#Wolof",
+      "sourceTitle": "Wiktionary contributors — cere (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "kuuy",
+      "meanings": [
+        "ram"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/kuuy#Wolof",
+      "sourceTitle": "Wiktionary contributors — kuuy (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "abal",
+      "meanings": [
+        "to lend"
+      ],
+      "partOfSpeech": "verb",
+      "sourceUrl": "https://en.wiktionary.org/wiki/abal#Wolof",
+      "sourceTitle": "Wiktionary contributors — abal (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "kaani",
+      "meanings": [
+        "chile"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/kaani#Wolof",
+      "sourceTitle": "Wiktionary contributors — kaani (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "nelaw",
+      "meanings": [
+        "to sleep"
+      ],
+      "partOfSpeech": "verb",
+      "sourceUrl": "https://en.wiktionary.org/wiki/nelaw#Wolof",
+      "sourceTitle": "Wiktionary contributors — nelaw (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "ngelaw",
+      "meanings": [
+        "wind",
+        "be windy"
+      ],
+      "partOfSpeech": "noun, verb",
+      "sourceUrl": "https://en.wiktionary.org/wiki/ngelaw#Wolof",
+      "sourceTitle": "Wiktionary contributors — ngelaw (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "mbubb",
+      "meanings": [
+        "boubou (type of robe worn by men in Senegal)"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/mbubb#Wolof",
+      "sourceTitle": "Wiktionary contributors — mbubb (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "réew",
+      "meanings": [
+        "country"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/r%C3%A9ew#Wolof",
+      "sourceTitle": "Wiktionary contributors — réew (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "ñuul",
+      "meanings": [
+        "to be black"
+      ],
+      "partOfSpeech": "verb",
+      "sourceUrl": "https://en.wiktionary.org/wiki/%C3%B1uul#Wolof",
+      "sourceTitle": "Wiktionary contributors — ñuul (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "génn",
+      "meanings": [
+        "to go out"
+      ],
+      "partOfSpeech": "verb",
+      "sourceUrl": "https://en.wiktionary.org/wiki/g%C3%A9nn#Wolof",
+      "sourceTitle": "Wiktionary contributors — génn (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "goro",
+      "meanings": [
+        "in-law"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/goro#Wolof",
+      "sourceTitle": "Wiktionary contributors — goro (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "jaam",
+      "meanings": [
+        "a slave; someone belonging to the lowest tier of society"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/jaam#Wolof",
+      "sourceTitle": "Wiktionary contributors — jaam (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "muus",
+      "meanings": [
+        "cat"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/muus#Wolof",
+      "sourceTitle": "Wiktionary contributors — muus (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "fas",
+      "meanings": [
+        "horse"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/fas#Wolof",
+      "sourceTitle": "Wiktionary contributors — fas (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "daje",
+      "meanings": [
+        "to meet (each other), come together, gather"
+      ],
+      "partOfSpeech": "verb",
+      "sourceUrl": "https://en.wiktionary.org/wiki/daje#Wolof",
+      "sourceTitle": "Wiktionary contributors — daje (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "weñ",
+      "meanings": [
+        "fly"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/we%C3%B1#Wolof",
+      "sourceTitle": "Wiktionary contributors — weñ (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "yaakaar",
+      "meanings": [
+        "hope"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/yaakaar#Wolof",
+      "sourceTitle": "Wiktionary contributors — yaakaar (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "lëg",
+      "meanings": [
+        "hare"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/l%C3%ABg#Wolof",
+      "sourceTitle": "Wiktionary contributors — lëg (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "tan",
+      "meanings": [
+        "vulture"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/tan#Wolof",
+      "sourceTitle": "Wiktionary contributors — tan (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "meew",
+      "meanings": [
+        "milk"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/meew#Wolof",
+      "sourceTitle": "Wiktionary contributors — meew (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "wërsëg",
+      "meanings": [
+        "luck"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/w%C3%ABrs%C3%ABg#Wolof",
+      "sourceTitle": "Wiktionary contributors — wërsëg (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "jàngale",
+      "meanings": [
+        "to teach (sth)",
+        "to teach (sb sth) at a specific place, in a specific manner, or with a specific instrument"
+      ],
+      "partOfSpeech": "verb",
+      "sourceUrl": "https://en.wiktionary.org/wiki/j%C3%A0ngale#Wolof",
+      "sourceTitle": "Wiktionary contributors — jàngale (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "koor",
+      "meanings": [
+        "the ninth month of the Islamic lunar calendar, Ramadan",
+        "fast"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/koor#Wolof",
+      "sourceTitle": "Wiktionary contributors — koor (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "bakkan",
+      "meanings": [
+        "nose"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/bakkan#Wolof",
+      "sourceTitle": "Wiktionary contributors — bakkan (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "sëriñ",
+      "meanings": [
+        "marabout"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/s%C3%ABri%C3%B1#Wolof",
+      "sourceTitle": "Wiktionary contributors — sëriñ (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "jën",
+      "meanings": [
+        "fish"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/j%C3%ABn#Wolof",
+      "sourceTitle": "Wiktionary contributors — jën (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "mar",
+      "meanings": [
+        "thirst"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/mar#Wolof",
+      "sourceTitle": "Wiktionary contributors — mar (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "weer",
+      "meanings": [
+        "moon",
+        "month"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/weer#Wolof",
+      "sourceTitle": "Wiktionary contributors — weer (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "dugub",
+      "meanings": [
+        "millet"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/dugub#Wolof",
+      "sourceTitle": "Wiktionary contributors — dugub (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "saa",
+      "meanings": [
+        "moment, instant"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/saa#Wolof",
+      "sourceTitle": "Wiktionary contributors — saa (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "yaram",
+      "meanings": [
+        "body"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/yaram#Wolof",
+      "sourceTitle": "Wiktionary contributors — yaram (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "xuloo",
+      "meanings": [
+        "quarrel"
+      ],
+      "partOfSpeech": "verb, noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/xuloo#Wolof",
+      "sourceTitle": "Wiktionary contributors — xuloo (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "biir",
+      "meanings": [
+        "belly, abdomen",
+        "stomach"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/biir#Wolof",
+      "sourceTitle": "Wiktionary contributors — biir (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "làmb",
+      "meanings": [
+        "a wrestling match or session."
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/l%C3%A0mb#Wolof",
+      "sourceTitle": "Wiktionary contributors — làmb (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "deret",
+      "meanings": [
+        "blood"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/deret#Wolof",
+      "sourceTitle": "Wiktionary contributors — deret (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "nëbb",
+      "meanings": [
+        "to hide"
+      ],
+      "partOfSpeech": "verb",
+      "sourceUrl": "https://en.wiktionary.org/wiki/n%C3%ABbb#Wolof",
+      "sourceTitle": "Wiktionary contributors — nëbb (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "pënd",
+      "meanings": [
+        "dust"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/p%C3%ABnd#Wolof",
+      "sourceTitle": "Wiktionary contributors — pënd (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "jóg",
+      "meanings": [
+        "to stand up"
+      ],
+      "partOfSpeech": "verb",
+      "sourceUrl": "https://en.wiktionary.org/wiki/j%C3%B3g#Wolof",
+      "sourceTitle": "Wiktionary contributors — jóg (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "ceeb",
+      "meanings": [
+        "rice"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/ceeb#Wolof",
+      "sourceTitle": "Wiktionary contributors — ceeb (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "siiru",
+      "meanings": [
+        "African wildcat, desert cat"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/siiru#Wolof",
+      "sourceTitle": "Wiktionary contributors — siiru (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "ñax",
+      "meanings": [
+        "grass"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/%C3%B1ax#Wolof",
+      "sourceTitle": "Wiktionary contributors — ñax (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "mbagg",
+      "meanings": [
+        "shoulder"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/mbagg#Wolof",
+      "sourceTitle": "Wiktionary contributors — mbagg (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "déem",
+      "meanings": [
+        "jujube"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/d%C3%A9em#Wolof",
+      "sourceTitle": "Wiktionary contributors — déem (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "kuddu",
+      "meanings": [
+        "spoon"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/kuddu#Wolof",
+      "sourceTitle": "Wiktionary contributors — kuddu (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "njugub",
+      "meanings": [
+        "bat"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/njugub#Wolof",
+      "sourceTitle": "Wiktionary contributors — njugub (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "tilim",
+      "meanings": [
+        "to be dirty",
+        "dirt"
+      ],
+      "partOfSpeech": "verb, noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/tilim#Wolof",
+      "sourceTitle": "Wiktionary contributors — tilim (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "taw",
+      "meanings": [
+        "to rain",
+        "rain"
+      ],
+      "partOfSpeech": "verb, noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/taw#Wolof",
+      "sourceTitle": "Wiktionary contributors — taw (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "xool",
+      "meanings": [
+        "to look"
+      ],
+      "partOfSpeech": "verb",
+      "sourceUrl": "https://en.wiktionary.org/wiki/xool#Wolof",
+      "sourceTitle": "Wiktionary contributors — xool (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "xorom",
+      "meanings": [
+        "to add salt",
+        "salt"
+      ],
+      "partOfSpeech": "verb, noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/xorom#Wolof",
+      "sourceTitle": "Wiktionary contributors — xorom (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "akara",
+      "meanings": [
+        "bean cake, fried bean flour"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/akara#Wolof",
+      "sourceTitle": "Wiktionary contributors — akara (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "àllarba",
+      "meanings": [
+        "Wednesday"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/%C3%A0llarba#Wolof",
+      "sourceTitle": "Wiktionary contributors — àllarba (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "taalibe",
+      "meanings": [
+        "student"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/taalibe#Wolof",
+      "sourceTitle": "Wiktionary contributors — taalibe (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "yoo",
+      "meanings": [
+        "mosquito"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/yoo#Wolof",
+      "sourceTitle": "Wiktionary contributors — yoo (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "ndaw",
+      "meanings": [
+        "youth, young man",
+        "messenger",
+        "young woman"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/ndaw#Wolof",
+      "sourceTitle": "Wiktionary contributors — ndaw (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "mbott",
+      "meanings": [
+        "toad"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/mbott#Wolof",
+      "sourceTitle": "Wiktionary contributors — mbott (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "yaay",
+      "meanings": [
+        "mother, or one's maternal aunt"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/yaay#Wolof",
+      "sourceTitle": "Wiktionary contributors — yaay (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "dëkkandoo",
+      "meanings": [
+        "neighbor"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/d%C3%ABkkandoo#Wolof",
+      "sourceTitle": "Wiktionary contributors — dëkkandoo (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "kéwél",
+      "meanings": [
+        "gazelle"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/k%C3%A9w%C3%A9l#Wolof",
+      "sourceTitle": "Wiktionary contributors — kéwél (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "waajur",
+      "meanings": [
+        "parents"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/waajur#Wolof",
+      "sourceTitle": "Wiktionary contributors — waajur (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "guy",
+      "meanings": [
+        "baobab"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/guy#Wolof",
+      "sourceTitle": "Wiktionary contributors — guy (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "dërëm",
+      "meanings": [
+        "five francs"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/d%C3%ABr%C3%ABm#Wolof",
+      "sourceTitle": "Wiktionary contributors — dërëm (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "jëkkër",
+      "meanings": [
+        "husband"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/j%C3%ABkk%C3%ABr#Wolof",
+      "sourceTitle": "Wiktionary contributors — jëkkër (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "wurus",
+      "meanings": [
+        "gold"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/wurus#Wolof",
+      "sourceTitle": "Wiktionary contributors — wurus (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "saaw",
+      "meanings": [
+        "porcupine"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/saaw#Wolof",
+      "sourceTitle": "Wiktionary contributors — saaw (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "ana",
+      "meanings": [
+        "where is, how are"
+      ],
+      "partOfSpeech": "adverb",
+      "sourceUrl": "https://en.wiktionary.org/wiki/ana#Wolof",
+      "sourceTitle": "Wiktionary contributors — ana (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "buum",
+      "meanings": [
+        "rope, cord"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/buum#Wolof",
+      "sourceTitle": "Wiktionary contributors — buum (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "joxe",
+      "meanings": [
+        "to give sth",
+        "to give (sb) sth at a specific place, in a specific manner, or with a specific instrument"
+      ],
+      "partOfSpeech": "verb",
+      "sourceUrl": "https://en.wiktionary.org/wiki/joxe#Wolof",
+      "sourceTitle": "Wiktionary contributors — joxe (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "diw",
+      "meanings": [
+        "oil, fat, butter, ointment"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/diw#Wolof",
+      "sourceTitle": "Wiktionary contributors — diw (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "xar",
+      "meanings": [
+        "to cut in half",
+        "piece, portion",
+        "sheep"
+      ],
+      "partOfSpeech": "verb, noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/xar#Wolof",
+      "sourceTitle": "Wiktionary contributors — xar (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "dënn",
+      "meanings": [
+        "chest"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/d%C3%ABnn#Wolof",
+      "sourceTitle": "Wiktionary contributors — dënn (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "ñibbi",
+      "meanings": [
+        "to go home"
+      ],
+      "partOfSpeech": "verb",
+      "sourceUrl": "https://en.wiktionary.org/wiki/%C3%B1ibbi#Wolof",
+      "sourceTitle": "Wiktionary contributors — ñibbi (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "tëj",
+      "meanings": [
+        "to close, lock"
+      ],
+      "partOfSpeech": "verb",
+      "sourceUrl": "https://en.wiktionary.org/wiki/t%C3%ABj#Wolof",
+      "sourceTitle": "Wiktionary contributors — tëj (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "mbaar",
+      "meanings": [
+        "shelter"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/mbaar#Wolof",
+      "sourceTitle": "Wiktionary contributors — mbaar (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "ñey",
+      "meanings": [
+        "elephant"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/%C3%B1ey#Wolof",
+      "sourceTitle": "Wiktionary contributors — ñey (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "liir",
+      "meanings": [
+        "baby"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/liir#Wolof",
+      "sourceTitle": "Wiktionary contributors — liir (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "teraanga",
+      "meanings": [
+        "hospitality"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/teraanga#Wolof",
+      "sourceTitle": "Wiktionary contributors — teraanga (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "suur",
+      "meanings": [
+        "to be full, to not be hungry"
+      ],
+      "partOfSpeech": "verb",
+      "sourceUrl": "https://en.wiktionary.org/wiki/suur#Wolof",
+      "sourceTitle": "Wiktionary contributors — suur (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "yëf",
+      "meanings": [
+        "things"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/y%C3%ABf#Wolof",
+      "sourceTitle": "Wiktionary contributors — yëf (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "indi",
+      "meanings": [
+        "to bring"
+      ],
+      "partOfSpeech": "verb",
+      "sourceUrl": "https://en.wiktionary.org/wiki/indi#Wolof",
+      "sourceTitle": "Wiktionary contributors — indi (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "ñeent",
+      "meanings": [
+        "four"
+      ],
+      "partOfSpeech": "numeral",
+      "sourceUrl": "https://en.wiktionary.org/wiki/%C3%B1eent#Wolof",
+      "sourceTitle": "Wiktionary contributors — ñeent (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "bind",
+      "meanings": [
+        "to write"
+      ],
+      "partOfSpeech": "verb",
+      "sourceUrl": "https://en.wiktionary.org/wiki/bind#Wolof",
+      "sourceTitle": "Wiktionary contributors — bind (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "njiit",
+      "meanings": [
+        "chief"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/njiit#Wolof",
+      "sourceTitle": "Wiktionary contributors — njiit (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "tudd",
+      "meanings": [
+        "to be named, be called",
+        "naming-ceremony"
+      ],
+      "partOfSpeech": "verb, noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/tudd#Wolof",
+      "sourceTitle": "Wiktionary contributors — tudd (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "suba",
+      "meanings": [
+        "morning",
+        "tomorrow"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/suba#Wolof",
+      "sourceTitle": "Wiktionary contributors — suba (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "àbb",
+      "meanings": [
+        "to borrow"
+      ],
+      "partOfSpeech": "verb",
+      "sourceUrl": "https://en.wiktionary.org/wiki/%C3%A0bb#Wolof",
+      "sourceTitle": "Wiktionary contributors — àbb (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "melax",
+      "meanings": [
+        "shine, sparkle"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/melax#Wolof",
+      "sourceTitle": "Wiktionary contributors — melax (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "yërmande",
+      "meanings": [
+        "compassion, pity"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/y%C3%ABrmande#Wolof",
+      "sourceTitle": "Wiktionary contributors — yërmande (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "màngo",
+      "meanings": [
+        "mango"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/m%C3%A0ngo#Wolof",
+      "sourceTitle": "Wiktionary contributors — màngo (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "xare",
+      "meanings": [
+        "conflict",
+        "battle, combat"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/xare#Wolof",
+      "sourceTitle": "Wiktionary contributors — xare (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "dex",
+      "meanings": [
+        "river"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/dex#Wolof",
+      "sourceTitle": "Wiktionary contributors — dex (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "naaj",
+      "meanings": [
+        "sun"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/naaj#Wolof",
+      "sourceTitle": "Wiktionary contributors — naaj (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "aar",
+      "meanings": [
+        "to wash a piece of linen for the first time",
+        "to protect, to defend"
+      ],
+      "partOfSpeech": "verb",
+      "sourceUrl": "https://en.wiktionary.org/wiki/aar#Wolof",
+      "sourceTitle": "Wiktionary contributors — aar (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "nawet",
+      "meanings": [
+        "rainy season",
+        "to spend the rainy season (somewhere)",
+        "shuttle (sliding thread holder in a sewing machine)"
+      ],
+      "partOfSpeech": "noun, verb",
+      "sourceUrl": "https://en.wiktionary.org/wiki/nawet#Wolof",
+      "sourceTitle": "Wiktionary contributors — nawet (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "xob",
+      "meanings": [
+        "tree leaf"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/xob#Wolof",
+      "sourceTitle": "Wiktionary contributors — xob (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "fatt",
+      "meanings": [
+        "to plug"
+      ],
+      "partOfSpeech": "verb",
+      "sourceUrl": "https://en.wiktionary.org/wiki/fatt#Wolof",
+      "sourceTitle": "Wiktionary contributors — fatt (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "jënd",
+      "meanings": [
+        "to buy"
+      ],
+      "partOfSpeech": "verb",
+      "sourceUrl": "https://en.wiktionary.org/wiki/j%C3%ABnd#Wolof",
+      "sourceTitle": "Wiktionary contributors — jënd (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "tef",
+      "meanings": [
+        "kid (young goat)"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/tef#Wolof",
+      "sourceTitle": "Wiktionary contributors — tef (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "tamaate",
+      "meanings": [
+        "tomato"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/tamaate#Wolof",
+      "sourceTitle": "Wiktionary contributors — tamaate (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "lor",
+      "meanings": [
+        "saliva"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/lor#Wolof",
+      "sourceTitle": "Wiktionary contributors — lor (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "gëmm",
+      "meanings": [
+        "to close one's eyes"
+      ],
+      "partOfSpeech": "verb",
+      "sourceUrl": "https://en.wiktionary.org/wiki/g%C3%ABmm#Wolof",
+      "sourceTitle": "Wiktionary contributors — gëmm (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "nuyu",
+      "meanings": [
+        "to greet"
+      ],
+      "partOfSpeech": "verb",
+      "sourceUrl": "https://en.wiktionary.org/wiki/nuyu#Wolof",
+      "sourceTitle": "Wiktionary contributors — nuyu (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "waliis",
+      "meanings": [
+        "luggage"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/waliis#Wolof",
+      "sourceTitle": "Wiktionary contributors — waliis (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "paaka",
+      "meanings": [
+        "knife"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/paaka#Wolof",
+      "sourceTitle": "Wiktionary contributors — paaka (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "bëy",
+      "meanings": [
+        "goat"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/b%C3%ABy#Wolof",
+      "sourceTitle": "Wiktionary contributors — bëy (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "daqaar",
+      "meanings": [
+        "tamarind"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/daqaar#Wolof",
+      "sourceTitle": "Wiktionary contributors — daqaar (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "lex",
+      "meanings": [
+        "cheek (part of the face)"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/lex#Wolof",
+      "sourceTitle": "Wiktionary contributors — lex (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "gënn",
+      "meanings": [
+        "mortar",
+        "pipe"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/g%C3%ABnn#Wolof",
+      "sourceTitle": "Wiktionary contributors — gënn (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "yax",
+      "meanings": [
+        "bone",
+        "crux of the matter"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/yax#Wolof",
+      "sourceTitle": "Wiktionary contributors — yax (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "xaalis",
+      "meanings": [
+        "silver",
+        "money"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/xaalis#Wolof",
+      "sourceTitle": "Wiktionary contributors — xaalis (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "xiif",
+      "meanings": [
+        "to be hungry",
+        "hunger",
+        "famine"
+      ],
+      "partOfSpeech": "verb, noun",
+      "sourceUrl": "https://en.wiktionary.org/wiki/xiif#Wolof",
+      "sourceTitle": "Wiktionary contributors — xiif (Wolof)",
+      "license": "CC BY-SA 4.0",
+      "dataset": "kaikki-enwiktionary-2026-09-02"
+    },
+    {
+      "term": "la",
+      "meanings": [
+        "Marks a focused complement or “is”; also object “you” (singular)."
+      ],
+      "partOfSpeech": "focus marker / object pronoun",
+      "kind": "grammar",
+      "sourceUrl": "https://www.livelingua.com/peace-corps/Wolof/NEW_WOLOF_BOOK.pdf#page=23",
+      "sourceTitle": "Elhadji Bamba Diop — Aay naa ci Wolof! (Peace Corps Senegal, 2012), PDF pp. 23, 25, 27, 95",
+      "sourcePages": [
+        23,
+        25,
+        27,
+        95
+      ],
+      "note": "General grammatical uses; the surrounding construction determines the reading."
+    },
+    {
+      "term": "ku",
+      "meanings": [
+        "Who; whoever; a person who."
+      ],
+      "partOfSpeech": "relative / question word",
+      "kind": "grammar",
+      "sourceUrl": "https://www.livelingua.com/peace-corps/Wolof/NEW_WOLOF_BOOK.pdf#page=112",
+      "sourceTitle": "Elhadji Bamba Diop — Aay naa ci Wolof! (Peace Corps Senegal, 2012), PDF pp. 112, 153",
+      "sourcePages": [
+        112,
+        153
+      ],
+      "note": "General grammatical uses; the surrounding construction determines the reading."
+    },
+    {
+      "term": "du",
+      "meanings": [
+        "He/she/it does not, will not, or is not."
+      ],
+      "partOfSpeech": "negative marker",
+      "kind": "grammar",
+      "sourceUrl": "https://www.livelingua.com/peace-corps/Wolof/NEW_WOLOF_BOOK.pdf#page=27",
+      "sourceTitle": "Elhadji Bamba Diop — Aay naa ci Wolof! (Peace Corps Senegal, 2012), PDF pp. 27, 79",
+      "sourcePages": [
+        27,
+        79
+      ],
+      "note": "General grammatical uses; the surrounding construction determines the reading."
+    },
+    {
+      "term": "ko",
+      "meanings": [
+        "Him, her, or it."
+      ],
+      "partOfSpeech": "object pronoun",
+      "kind": "grammar",
+      "sourceUrl": "https://www.livelingua.com/peace-corps/Wolof/NEW_WOLOF_BOOK.pdf#page=95",
+      "sourceTitle": "Elhadji Bamba Diop — Aay naa ci Wolof! (Peace Corps Senegal, 2012), PDF pp. 95",
+      "sourcePages": [
+        95
+      ],
+      "note": "General grammatical uses; the surrounding construction determines the reading."
+    },
+    {
+      "term": "bu",
+      "meanings": [
+        "That/which (noun-class agreement); if/when; also “don’t” before an object pronoun."
+      ],
+      "partOfSpeech": "relative / conditional marker",
+      "kind": "grammar",
+      "sourceUrl": "https://www.livelingua.com/peace-corps/Wolof/NEW_WOLOF_BOOK.pdf#page=80",
+      "sourceTitle": "Elhadji Bamba Diop — Aay naa ci Wolof! (Peace Corps Senegal, 2012), PDF pp. 80, 153, 97",
+      "sourcePages": [
+        80,
+        153,
+        97
+      ],
+      "note": "General grammatical uses; the surrounding construction determines the reading."
+    },
+    {
+      "term": "ci",
+      "meanings": [
+        "In, at, on; in/on/about it."
+      ],
+      "partOfSpeech": "preposition / pronoun",
+      "kind": "grammar",
+      "sourceUrl": "https://www.livelingua.com/peace-corps/Wolof/NEW_WOLOF_BOOK.pdf#page=62",
+      "sourceTitle": "Elhadji Bamba Diop — Aay naa ci Wolof! (Peace Corps Senegal, 2012), PDF pp. 62, 63, 95",
+      "sourcePages": [
+        62,
+        63,
+        95
+      ],
+      "note": "General grammatical uses; the surrounding construction determines the reading."
+    },
+    {
+      "term": "mu",
+      "meanings": [
+        "He/she/it in subordinate clauses; also a noun-class relative marker."
+      ],
+      "partOfSpeech": "subject pronoun / relative marker",
+      "kind": "grammar",
+      "sourceUrl": "https://www.livelingua.com/peace-corps/Wolof/NEW_WOLOF_BOOK.pdf#page=153",
+      "sourceTitle": "Elhadji Bamba Diop — Aay naa ci Wolof! (Peace Corps Senegal, 2012), PDF pp. 153, 164",
+      "sourcePages": [
+        153,
+        164
+      ],
+      "note": "General grammatical uses; the surrounding construction determines the reading."
+    },
+    {
+      "term": "na",
+      "meanings": [
+        "Marks an established state or completed action; also appears in wishes."
+      ],
+      "partOfSpeech": "grammatical marker",
+      "kind": "grammar",
+      "sourceUrl": "https://www.livelingua.com/peace-corps/Wolof/NEW_WOLOF_BOOK.pdf#page=49",
+      "sourceTitle": "Elhadji Bamba Diop — Aay naa ci Wolof! (Peace Corps Senegal, 2012), PDF pp. 49, 205",
+      "sourcePages": [
+        49,
+        205
+      ],
+      "note": "General grammatical uses; the surrounding construction determines the reading."
+    },
+    {
+      "term": "sa",
+      "meanings": [
+        "Your (one addressee)."
+      ],
+      "partOfSpeech": "possessive",
+      "kind": "grammar",
+      "sourceUrl": "https://www.livelingua.com/peace-corps/Wolof/NEW_WOLOF_BOOK.pdf#page=48",
+      "sourceTitle": "Elhadji Bamba Diop — Aay naa ci Wolof! (Peace Corps Senegal, 2012), PDF pp. 48",
+      "sourcePages": [
+        48
+      ],
+      "note": "General grammatical uses; the surrounding construction determines the reading."
+    },
+    {
+      "term": "nga",
+      "meanings": [
+        "You (singular), used in several conjugation patterns."
+      ],
+      "partOfSpeech": "grammatical pronoun",
+      "kind": "grammar",
+      "sourceUrl": "https://www.livelingua.com/peace-corps/Wolof/NEW_WOLOF_BOOK.pdf#page=23",
+      "sourceTitle": "Elhadji Bamba Diop — Aay naa ci Wolof! (Peace Corps Senegal, 2012), PDF pp. 23, 49, 164",
+      "sourcePages": [
+        23,
+        49,
+        164
+      ],
+      "note": "General grammatical uses; the surrounding construction determines the reading."
+    },
+    {
+      "term": "di",
+      "meanings": [
+        "Marks an ongoing or habitual action; often shortened to -y."
+      ],
+      "partOfSpeech": "aspect marker",
+      "kind": "grammar",
+      "sourceUrl": "https://www.livelingua.com/peace-corps/Wolof/NEW_WOLOF_BOOK.pdf#page=25",
+      "sourceTitle": "Elhadji Bamba Diop — Aay naa ci Wolof! (Peace Corps Senegal, 2012), PDF pp. 25, 96, 164",
+      "sourcePages": [
+        25,
+        96,
+        164
+      ],
+      "note": "General grammatical uses; the surrounding construction determines the reading."
+    },
+    {
+      "term": "ak",
+      "meanings": [
+        "And; with."
+      ],
+      "partOfSpeech": "conjunction / preposition",
+      "kind": "grammar",
+      "sourceUrl": "https://www.livelingua.com/peace-corps/Wolof/NEW_WOLOF_BOOK.pdf#page=215",
+      "sourceTitle": "Elhadji Bamba Diop — Aay naa ci Wolof! (Peace Corps Senegal, 2012), PDF pp. 215",
+      "sourcePages": [
+        215
+      ],
+      "note": "General grammatical uses; the surrounding construction determines the reading."
+    },
+    {
+      "term": "waaye",
+      "meanings": [
+        "But."
+      ],
+      "partOfSpeech": "conjunction",
+      "kind": "grammar",
+      "sourceUrl": "https://www.livelingua.com/peace-corps/Wolof/NEW_WOLOF_BOOK.pdf#page=215",
+      "sourceTitle": "Elhadji Bamba Diop — Aay naa ci Wolof! (Peace Corps Senegal, 2012), PDF pp. 215",
+      "sourcePages": [
+        215
+      ],
+      "note": "General grammatical uses; the surrounding construction determines the reading."
+    },
+    {
+      "term": "fa",
+      "meanings": [
+        "There."
+      ],
+      "partOfSpeech": "place pronoun",
+      "kind": "grammar",
+      "sourceUrl": "https://www.livelingua.com/peace-corps/Wolof/NEW_WOLOF_BOOK.pdf#page=95",
+      "sourceTitle": "Elhadji Bamba Diop — Aay naa ci Wolof! (Peace Corps Senegal, 2012), PDF pp. 95",
+      "sourcePages": [
+        95
+      ],
+      "note": "General grammatical uses; the surrounding construction determines the reading."
+    },
+    {
+      "term": "ma",
+      "meanings": [
+        "I in subordinate clauses; me as object."
+      ],
+      "partOfSpeech": "subject / object pronoun",
+      "kind": "grammar",
+      "sourceUrl": "https://www.livelingua.com/peace-corps/Wolof/NEW_WOLOF_BOOK.pdf#page=95",
+      "sourceTitle": "Elhadji Bamba Diop — Aay naa ci Wolof! (Peace Corps Senegal, 2012), PDF pp. 95, 164",
+      "sourcePages": [
+        95,
+        164
+      ],
+      "note": "General grammatical uses; the surrounding construction determines the reading."
+    },
+    {
+      "term": "su",
+      "meanings": [
+        "If/when in conditional constructions."
+      ],
+      "partOfSpeech": "conditional marker",
+      "kind": "grammar",
+      "sourceUrl": "https://www.livelingua.com/peace-corps/Wolof/NEW_WOLOF_BOOK.pdf#page=80",
+      "sourceTitle": "Elhadji Bamba Diop — Aay naa ci Wolof! (Peace Corps Senegal, 2012), PDF pp. 80",
+      "sourcePages": [
+        80
+      ],
+      "note": "General grammatical uses; the surrounding construction determines the reading."
+    },
+    {
+      "term": "te",
+      "meanings": [
+        "And, linking clauses."
+      ],
+      "partOfSpeech": "conjunction",
+      "kind": "grammar",
+      "sourceUrl": "https://www.livelingua.com/peace-corps/Wolof/NEW_WOLOF_BOOK.pdf#page=215",
+      "sourceTitle": "Elhadji Bamba Diop — Aay naa ci Wolof! (Peace Corps Senegal, 2012), PDF pp. 215",
+      "sourcePages": [
+        215
+      ],
+      "note": "General grammatical uses; the surrounding construction determines the reading."
+    },
+    {
+      "term": "ñu",
+      "meanings": [
+        "They; also “we” in varieties that use ñun for “we”."
+      ],
+      "partOfSpeech": "subject pronoun",
+      "kind": "grammar",
+      "sourceUrl": "https://www.livelingua.com/peace-corps/Wolof/NEW_WOLOF_BOOK.pdf#page=164",
+      "sourceTitle": "Elhadji Bamba Diop — Aay naa ci Wolof! (Peace Corps Senegal, 2012), PDF pp. 164",
+      "sourcePages": [
+        164
+      ],
+      "additionalSources": [
+        {
+          "url": "https://www.bu.edu/africa/files/2012/10/Wolof-3-Glossary.pdf#page=2",
+          "title": "Boston University — Wolof 3 glossary, p. 2 (ñun/ñu variant)"
+        }
+      ],
+      "note": "The intended person depends on the sentence and variety."
+    },
+    {
+      "term": "ay",
+      "meanings": [
+        "Some (plural indefinite article)."
+      ],
+      "partOfSpeech": "article",
+      "kind": "grammar",
+      "sourceUrl": "https://en.wiktionary.org/wiki/ay#Wolof",
+      "sourceTitle": "Wiktionary contributors — ay (Wolof)",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "term": "xer",
+      "meanings": [
+        "stake",
+        "post"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://horizon.documentation.ird.fr/exl-doc/pleins_textes/divers18-07/10639.pdf#page=27",
+      "sourceTitle": "Serge Sauvageot, Description synchronique d’un dialecte Wolof : le parler du Dyolof (1965), printed p. 25, §1-34"
+    },
+    {
+      "term": "damm",
+      "meanings": [
+        "break"
+      ],
+      "partOfSpeech": "verb",
+      "sourceUrl": "https://www.livelingua.com/peace-corps/Wolof/NEW_WOLOF_BOOK.pdf#page=162",
+      "sourceTitle": "Elhadji Bamba Diop, Aay naa ci Wolof! Peace Corps Senegal (2012), PDF p. 162"
+    },
+    {
+      "term": "sàkket",
+      "meanings": [
+        "fence",
+        "palisade"
+      ],
+      "partOfSpeech": "noun",
+      "sourceUrl": "https://horizon.documentation.ird.fr/exl-doc/pleins_textes/pleins_textes_7/b_fdi_03_05/010027322.pdf#page=251",
+      "sourceTitle": "Christian Seignobos and Henry Tourneux, Le Nord-Cameroun à travers ses mots (IRD / Karthala, 2002), printed p. 250"
+    },
+    {
+      "term": "doonte",
+      "meanings": [
+        "although"
+      ],
+      "partOfSpeech": "conjunction",
+      "sourceUrl": "https://pure.mpg.de/rest/items/item_3571095_1/component/file_3571096/content#page=218",
+      "sourceTitle": "Izabela Jordanoska, The pragmatics of sentence final and second position particles in Wolof (2020), §8.2.4"
+    },
+    {
+      "term": "ab",
+      "meanings": [
+        "a; an"
+      ],
+      "partOfSpeech": "article",
+      "kind": "grammar",
+      "sourceUrl": "https://www.livelingua.com/peace-corps/Wolof/NEW_WOLOF_BOOK.pdf#page=64",
+      "sourceTitle": "Elhadji Bamba Diop, Aay naa ci Wolof! Peace Corps Senegal (2012), PDF p. 64",
+      "note": "An indefinite article used before a singular noun."
+    },
+    {
+      "term": "lu",
+      "meanings": [
+        "What; that which; whatever (a nonspecific thing). Also used in questions."
+      ],
+      "partOfSpeech": "relative / question word",
+      "kind": "grammar",
+      "sourceUrl": "https://www.livelingua.com/peace-corps/Wolof/NEW_WOLOF_BOOK.pdf#page=112",
+      "sourceTitle": "Elhadji Bamba Diop — Aay naa ci Wolof! (Peace Corps Senegal, 2012), PDF pp. 112",
+      "sourcePages": [
+        112
+      ],
+      "note": "General grammatical uses; the surrounding construction determines the reading.",
+      "additionalSources": [
+        {
+          "url": "https://espanolparainmigrantes.wordpress.com/wp-content/uploads/2009/05/a-basic-course-wolof-dakar2f.pdf#page=398",
+          "title": "Stewart and Gage, Notes on Wolof Grammar, in Dakar Wolof: A Basic Course (CAL, 1970), printed pp. 381–382"
+        }
+      ]
+    },
+    {
+      "term": "a",
+      "meanings": [
+        "Marks an emphasized subject; also links two verbs in a compound construction."
+      ],
+      "partOfSpeech": "focus / verb-linking marker",
+      "kind": "grammar",
+      "sourceUrl": "https://espanolparainmigrantes.wordpress.com/wp-content/uploads/2009/05/a-basic-course-wolof-dakar2f.pdf#page=380",
+      "sourceTitle": "Stewart and Gage, Notes on Wolof Grammar, in Dakar Wolof: A Basic Course (CAL, 1970), §6, printed p. 364",
+      "additionalSources": [
+        {
+          "url": "https://espanolparainmigrantes.wordpress.com/wp-content/uploads/2009/05/a-basic-course-wolof-dakar2f.pdf#page=402",
+          "title": "Stewart and Gage, Notes on Wolof Grammar, §19, printed p. 386"
+        }
+      ],
+      "note": "General grammatical uses; the surrounding construction determines the reading."
     }
   ],
   "glosses": [
@@ -653,6 +2769,48 @@
           "sources": [
             "https://www.livelingua.com/peace-corps/Wolof/NEW_WOLOF_BOOK.pdf#page=46"
           ]
+        },
+        {
+          "text": "doonte",
+          "meaning": "even if; introduces the concession in this proverb",
+          "sources": [
+            "https://pure.mpg.de/rest/items/item_3571095_1/component/file_3571096/content#page=218"
+          ]
+        },
+        {
+          "text": "yeena",
+          "meaning": "you (plural), with emphasis on the subject",
+          "sources": [
+            "https://www.livelingua.com/peace-corps/Wolof/NEW_WOLOF_BOOK.pdf#page=112"
+          ]
+        },
+        {
+          "text": "sàkket",
+          "meaning": "fence or palisade; the book describes a wall of reeds here",
+          "sources": [
+            "https://horizon.documentation.ird.fr/exl-doc/pleins_textes/pleins_textes_7/b_fdi_03_05/010027322.pdf#page=251"
+          ]
+        },
+        {
+          "text": "ab",
+          "meaning": "a; introduces the singular noun xer",
+          "sources": [
+            "https://www.livelingua.com/peace-corps/Wolof/NEW_WOLOF_BOOK.pdf#page=64"
+          ]
+        },
+        {
+          "text": "xer",
+          "meaning": "stake or post",
+          "sources": [
+            "https://horizon.documentation.ird.fr/exl-doc/pleins_textes/divers18-07/10639.pdf#page=27"
+          ]
+        },
+        {
+          "text": "damm",
+          "meaning": "break",
+          "sources": [
+            "https://www.livelingua.com/peace-corps/Wolof/NEW_WOLOF_BOOK.pdf#page=162"
+          ]
         }
       ],
       "complete": false,
@@ -660,6 +2818,30 @@
         {
           "url": "https://www.livelingua.com/peace-corps/Wolof/NEW_WOLOF_BOOK.pdf#page=46",
           "title": "Elhadji Bamba Diop, Aay naa ci Wolof! Peace Corps Senegal (2012); hosted by Live Lingua"
+        },
+        {
+          "url": "https://horizon.documentation.ird.fr/exl-doc/pleins_textes/divers18-07/10639.pdf#page=27",
+          "title": "Serge Sauvageot, Description synchronique d’un dialecte Wolof : le parler du Dyolof (1965), printed p. 25, §1-34"
+        },
+        {
+          "url": "https://www.livelingua.com/peace-corps/Wolof/NEW_WOLOF_BOOK.pdf#page=162",
+          "title": "Elhadji Bamba Diop, Aay naa ci Wolof! Peace Corps Senegal (2012), PDF p. 162"
+        },
+        {
+          "url": "https://horizon.documentation.ird.fr/exl-doc/pleins_textes/pleins_textes_7/b_fdi_03_05/010027322.pdf#page=251",
+          "title": "Christian Seignobos and Henry Tourneux, Le Nord-Cameroun à travers ses mots (IRD / Karthala, 2002), printed p. 250"
+        },
+        {
+          "url": "https://pure.mpg.de/rest/items/item_3571095_1/component/file_3571096/content#page=218",
+          "title": "Izabela Jordanoska, The pragmatics of sentence final and second position particles in Wolof (2020), §8.2.4"
+        },
+        {
+          "url": "https://www.livelingua.com/peace-corps/Wolof/NEW_WOLOF_BOOK.pdf#page=64",
+          "title": "Elhadji Bamba Diop, Aay naa ci Wolof! Peace Corps Senegal (2012), PDF p. 64"
+        },
+        {
+          "url": "https://www.livelingua.com/peace-corps/Wolof/NEW_WOLOF_BOOK.pdf#page=112",
+          "title": "Elhadji Bamba Diop, Aay naa ci Wolof! Peace Corps Senegal (2012), PDF p. 112"
         }
       ]
     },
@@ -1541,12 +3723,187 @@
     }
   ],
   "attribution": {
-    "text": "Word entries adapted and translated into English from Wiktionnaire contributors are credited at their source links and licensed CC BY-SA 4.0. Other sources are cited for short factual glosses and original paraphrases.",
+    "text": "Selected word entries from Wiktionary and Wiktionnaire contributors are credited at their source links and licensed CC BY-SA 4.0. The reviewed Kaikki.org extract is identified in dictionaryExtract. Other sources are cited for short factual glosses and original paraphrases.",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
     "wiktionaryWords": [
-      "wax",
+      "bukki",
+      "bëgg",
+      "gaynde",
+      "kër",
+      "lekk",
+      "ndox",
+      "xarit",
+      "xol",
       "yomb",
-      "feeñ"
+      "feeñ",
+      "baay",
+      "nekk",
+      "golo",
+      "dëkk",
+      "benn",
+      "jur",
+      "jigéen",
+      "ngor",
+      "tànk",
+      "loxo",
+      "gan",
+      "ñaar",
+      "tool",
+      "xale",
+      "bés",
+      "bokk",
+      "bey",
+      "ñett",
+      "rafet",
+      "fey",
+      "ree",
+      "bëñ",
+      "juddu",
+      "janax",
+      "picc",
+      "waxtaan",
+      "daaw",
+      "nopp",
+      "añ",
+      "pexe",
+      "làmmiñ",
+      "lal",
+      "xalam",
+      "saabu",
+      "fukk",
+      "ñàmbi",
+      "maam",
+      "baaraam",
+      "jaay",
+      "gémmiñ",
+      "sikkim",
+      "xam-xam",
+      "dégg",
+      "weex",
+      "yàpp",
+      "cere",
+      "kuuy",
+      "abal",
+      "kaani",
+      "nelaw",
+      "ngelaw",
+      "mbubb",
+      "réew",
+      "ñuul",
+      "génn",
+      "goro",
+      "jaam",
+      "muus",
+      "fas",
+      "daje",
+      "weñ",
+      "yaakaar",
+      "lëg",
+      "tan",
+      "meew",
+      "wërsëg",
+      "jàngale",
+      "koor",
+      "bakkan",
+      "sëriñ",
+      "jën",
+      "mar",
+      "weer",
+      "dugub",
+      "saa",
+      "yaram",
+      "xuloo",
+      "biir",
+      "làmb",
+      "deret",
+      "nëbb",
+      "pënd",
+      "jóg",
+      "ceeb",
+      "siiru",
+      "ñax",
+      "mbagg",
+      "déem",
+      "kuddu",
+      "njugub",
+      "tilim",
+      "taw",
+      "xool",
+      "xorom",
+      "akara",
+      "àllarba",
+      "taalibe",
+      "yoo",
+      "ndaw",
+      "mbott",
+      "yaay",
+      "dëkkandoo",
+      "kéwél",
+      "waajur",
+      "guy",
+      "dërëm",
+      "jëkkër",
+      "wurus",
+      "saaw",
+      "ana",
+      "buum",
+      "joxe",
+      "diw",
+      "xar",
+      "dënn",
+      "ñibbi",
+      "tëj",
+      "mbaar",
+      "ñey",
+      "liir",
+      "teraanga",
+      "suur",
+      "yëf",
+      "indi",
+      "ñeent",
+      "bind",
+      "njiit",
+      "tudd",
+      "suba",
+      "àbb",
+      "melax",
+      "yërmande",
+      "màngo",
+      "xare",
+      "dex",
+      "naaj",
+      "aar",
+      "nawet",
+      "xob",
+      "fatt",
+      "jënd",
+      "tef",
+      "tamaate",
+      "lor",
+      "gëmm",
+      "nuyu",
+      "waliis",
+      "paaka",
+      "bëy",
+      "daqaar",
+      "lex",
+      "gënn",
+      "yax",
+      "xaalis",
+      "xiif",
+      "ay"
     ]
+  },
+  "dictionaryExtract": {
+    "id": "kaikki-enwiktionary-2026-09-02",
+    "sourceUrl": "https://kaikki.org/dictionary/Wolof/index.html",
+    "downloadUrl": "https://kaikki.org/dictionary/Wolof/kaikki.org-dictionary-Wolof.jsonl",
+    "dumpDate": "2026-09-02",
+    "extractedOn": "2026-09-25",
+    "retrievedOn": "2026-10-02",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "credit": "Wiktionary contributors; structured extraction by Kaikki.org / Wiktextract",
+    "selectedEntries": 155
   }
 }
